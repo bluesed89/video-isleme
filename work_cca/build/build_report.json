@@ -1,0 +1,953 @@
+{
+ "content_name": "draft_content.json",
+ "fps": 30,
+ "end": 224.8,
+ "os": "windows",
+ "timeline_id": "4313AAFE-01D5-401d-A26C-63956366DE81",
+ "device_to_local": {
+  "C:/Users/ufuq/Desktop/iron vanguard/video_1_coca_cola/sahne_gorselleri/01.jpg": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_1_coca_cola\\sahne_gorselleri\\01.jpg",
+  "C:/Users/ufuq/Desktop/iron vanguard/video_1_coca_cola/sahne_gorselleri/02.jpg": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_1_coca_cola\\sahne_gorselleri\\02.jpg",
+  "C:/Users/ufuq/Desktop/iron vanguard/video_1_coca_cola/sahne_gorselleri/03.jpg": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_1_coca_cola\\sahne_gorselleri\\03.jpg",
+  "C:/Users/ufuq/Desktop/iron vanguard/video_1_coca_cola/sahne_gorselleri/04.jpg": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_1_coca_cola\\sahne_gorselleri\\04.jpg",
+  "C:/Users/ufuq/Desktop/iron vanguard/video_1_coca_cola/sahne_gorselleri/05.jpg": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_1_coca_cola\\sahne_gorselleri\\05.jpg",
+  "C:/Users/ufuq/Desktop/iron vanguard/video_1_coca_cola/sahne_gorselleri/06.jpg": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_1_coca_cola\\sahne_gorselleri\\06.jpg",
+  "C:/Users/ufuq/Desktop/iron vanguard/video_1_coca_cola/sahne_gorselleri/07.jpg": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_1_coca_cola\\sahne_gorselleri\\07.jpg",
+  "C:/Users/ufuq/Desktop/iron vanguard/video_1_coca_cola/sahne_gorselleri/08.jpg": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_1_coca_cola\\sahne_gorselleri\\08.jpg",
+  "C:/Users/ufuq/Desktop/iron vanguard/video_1_coca_cola/sahne_gorselleri/09.jpg": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_1_coca_cola\\sahne_gorselleri\\09.jpg",
+  "C:/Users/ufuq/Desktop/iron vanguard/video_1_coca_cola/sahne_gorselleri/10.jpg": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_1_coca_cola\\sahne_gorselleri\\10.jpg",
+  "C:/Users/ufuq/Desktop/iron vanguard/video_1_coca_cola/sahne_gorselleri/11.jpg": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_1_coca_cola\\sahne_gorselleri\\11.jpg",
+  "C:/Users/ufuq/Desktop/iron vanguard/video_1_coca_cola/sahne_gorselleri/12.jpg": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_1_coca_cola\\sahne_gorselleri\\12.jpg",
+  "C:/Users/ufuq/Desktop/iron vanguard/video_1_coca_cola/sahne_gorselleri/13.jpg": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_1_coca_cola\\sahne_gorselleri\\13.jpg",
+  "C:/Users/ufuq/Desktop/iron vanguard/video_1_coca_cola/sahne_gorselleri/14.jpg": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_1_coca_cola\\sahne_gorselleri\\14.jpg",
+  "C:/Users/ufuq/Desktop/iron vanguard/video_1_coca_cola/sahne_gorselleri/15.jpg": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_1_coca_cola\\sahne_gorselleri\\15.jpg",
+  "C:/Users/ufuq/Desktop/iron vanguard/video_1_coca_cola/sahne_gorselleri/16.jpg": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_1_coca_cola\\sahne_gorselleri\\16.jpg",
+  "C:/Users/ufuq/Desktop/iron vanguard/video_1_coca_cola/sahne_gorselleri/17.jpg": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_1_coca_cola\\sahne_gorselleri\\17.jpg",
+  "C:/Users/ufuq/Desktop/iron vanguard/video_1_coca_cola/sahne_gorselleri/18.jpg": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_1_coca_cola\\sahne_gorselleri\\18.jpg",
+  "C:/Users/ufuq/Desktop/iron vanguard/video_1_coca_cola/sahne_gorselleri/19.jpg": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_1_coca_cola\\sahne_gorselleri\\19.jpg",
+  "C:/Users/ufuq/Desktop/iron vanguard/video_1_coca_cola/sahne_gorselleri/20.jpg": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_1_coca_cola\\sahne_gorselleri\\20.jpg",
+  "C:/Users/ufuq/Desktop/iron vanguard/video_1_coca_cola/sahne_gorselleri/21.jpg": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_1_coca_cola\\sahne_gorselleri\\21.jpg",
+  "C:/Users/ufuq/Desktop/iron vanguard/video_1_coca_cola/sahne_gorselleri/22.jpg": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_1_coca_cola\\sahne_gorselleri\\22.jpg",
+  "C:/Users/ufuq/Desktop/iron vanguard/video_1_coca_cola/sahne_gorselleri/23.jpg": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_1_coca_cola\\sahne_gorselleri\\23.jpg",
+  "C:/Users/ufuq/Desktop/iron vanguard/video_1_coca_cola/sahne_gorselleri/24.jpg": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_1_coca_cola\\sahne_gorselleri\\24.jpg",
+  "C:/Users/ufuq/Desktop/iron vanguard/video_1_coca_cola/sahne_gorselleri/25.jpg": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_1_coca_cola\\sahne_gorselleri\\25.jpg",
+  "C:/Users/ufuq/Desktop/iron vanguard/video_1_coca_cola/sahne_gorselleri/26.jpg": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_1_coca_cola\\sahne_gorselleri\\26.jpg",
+  "C:/Users/ufuq/Desktop/iron vanguard/video_1_coca_cola/sahne_gorselleri/27.jpg": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_1_coca_cola\\sahne_gorselleri\\27.jpg",
+  "C:/Users/ufuq/Desktop/iron vanguard/video_1_coca_cola/sahne_gorselleri/28.jpg": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_1_coca_cola\\sahne_gorselleri\\28.jpg",
+  "C:/Users/ufuq/Desktop/iron vanguard/video_1_coca_cola/sahne_gorselleri/29.jpg": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_1_coca_cola\\sahne_gorselleri\\29.jpg",
+  "C:/Users/ufuq/Desktop/iron vanguard/video_1_coca_cola/sahne_gorselleri/30.jpg": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_1_coca_cola\\sahne_gorselleri\\30.jpg",
+  "C:/Users/ufuq/Desktop/iron vanguard/video_1_coca_cola/sahne_gorselleri/31.jpg": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_1_coca_cola\\sahne_gorselleri\\31.jpg",
+  "C:/Users/ufuq/Desktop/iron vanguard/video_1_coca_cola/sahne_gorselleri/32.jpg": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_1_coca_cola\\sahne_gorselleri\\32.jpg",
+  "C:/Users/ufuq/Desktop/iron vanguard/video_1_coca_cola/sahne_gorselleri/33.jpg": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_1_coca_cola\\sahne_gorselleri\\33.jpg",
+  "C:/Users/ufuq/Desktop/iron vanguard/video_1_coca_cola/sahne_gorselleri/34.jpg": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_1_coca_cola\\sahne_gorselleri\\34.jpg",
+  "C:/Users/ufuq/Desktop/iron vanguard/video_1_coca_cola/sahne_gorselleri/35.jpg": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_1_coca_cola\\sahne_gorselleri\\35.jpg",
+  "C:/Users/ufuq/Desktop/iron vanguard/video_1_coca_cola/sahne_gorselleri/36.jpg": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_1_coca_cola\\sahne_gorselleri\\36.jpg",
+  "C:/Users/ufuq/Desktop/iron vanguard/video_1_coca_cola/sahne_gorselleri/37.jpg": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_1_coca_cola\\sahne_gorselleri\\37.jpg",
+  "C:/Users/ufuq/Desktop/iron vanguard/video_1_coca_cola/sahne_gorselleri/38.jpg": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_1_coca_cola\\sahne_gorselleri\\38.jpg",
+  "C:/Users/ufuq/Desktop/iron vanguard/video_1_coca_cola/sahne_gorselleri/39.jpg": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_1_coca_cola\\sahne_gorselleri\\39.jpg",
+  "C:/Users/ufuq/Desktop/iron vanguard/video_1_coca_cola/sahne_gorselleri/40.jpg": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_1_coca_cola\\sahne_gorselleri\\40.jpg",
+  "C:/Users/ufuq/Desktop/iron vanguard/video_1_coca_cola/sahne_gorselleri/41.jpg": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_1_coca_cola\\sahne_gorselleri\\41.jpg",
+  "C:/Users/ufuq/Desktop/iron vanguard/video_1_coca_cola/sahne_gorselleri/42.jpg": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_1_coca_cola\\sahne_gorselleri\\42.jpg",
+  "C:/Users/ufuq/Desktop/iron vanguard/video_1_coca_cola/sahne_gorselleri/43.jpg": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_1_coca_cola\\sahne_gorselleri\\43.jpg",
+  "C:/Users/ufuq/Desktop/iron vanguard/video_1_coca_cola/sahne_gorselleri/44.jpg": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_1_coca_cola\\sahne_gorselleri\\44.jpg",
+  "C:/Users/ufuq/Desktop/iron vanguard/video_1_coca_cola/sahne_gorselleri/45.jpg": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_1_coca_cola\\sahne_gorselleri\\45.jpg",
+  "C:/Users/ufuq/Desktop/iron vanguard/video_1_coca_cola/sahne_gorselleri/46.jpg": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_1_coca_cola\\sahne_gorselleri\\46.jpg",
+  "C:/Users/ufuq/Desktop/iron vanguard/video_1_coca_cola/sahne_gorselleri/47.jpg": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_1_coca_cola\\sahne_gorselleri\\47.jpg",
+  "C:/Users/ufuq/Desktop/iron vanguard/video_1_coca_cola/sahne_gorselleri/48.jpg": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_1_coca_cola\\sahne_gorselleri\\48.jpg",
+  "C:/Users/ufuq/Desktop/iron vanguard/video_1_coca_cola/sahne_gorselleri/49.jpg": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_1_coca_cola\\sahne_gorselleri\\49.jpg",
+  "C:/Users/ufuq/Desktop/iron vanguard/video_1_coca_cola/sahne_gorselleri/50.jpg": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_1_coca_cola\\sahne_gorselleri\\50.jpg",
+  "C:/Users/ufuq/Desktop/iron vanguard/video_1_coca_cola/sahne_gorselleri/51.jpg": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_1_coca_cola\\sahne_gorselleri\\51.jpg",
+  "C:/Users/ufuq/Desktop/iron vanguard/video_1_coca_cola/sahne_gorselleri/52.jpg": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_1_coca_cola\\sahne_gorselleri\\52.jpg",
+  "C:/Users/ufuq/Desktop/iron vanguard/video_1_coca_cola/sahne_gorselleri/53.jpg": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_1_coca_cola\\sahne_gorselleri\\53.jpg",
+  "C:/Users/ufuq/Desktop/iron vanguard/video_1_coca_cola/sahne_gorselleri/54.jpg": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_1_coca_cola\\sahne_gorselleri\\54.jpg",
+  "C:/Users/ufuq/Desktop/iron vanguard/video_1_coca_cola/sahne_gorselleri/55.jpg": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_1_coca_cola\\sahne_gorselleri\\55.jpg",
+  "C:/Users/ufuq/Desktop/iron vanguard/video_1_coca_cola/sahne_gorselleri/56.jpg": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_1_coca_cola\\sahne_gorselleri\\56.jpg",
+  "C:/Users/ufuq/Desktop/iron vanguard/video_1_coca_cola/sahne_gorselleri/57.jpg": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_1_coca_cola\\sahne_gorselleri\\57.jpg",
+  "C:/Users/ufuq/Desktop/iron vanguard/video_1_coca_cola/sahne_gorselleri/58.jpg": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_1_coca_cola\\sahne_gorselleri\\58.jpg",
+  "C:/Users/ufuq/Desktop/iron vanguard/video_1_coca_cola/sahne_gorselleri/59.jpg": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_1_coca_cola\\sahne_gorselleri\\59.jpg",
+  "C:/Users/ufuq/Desktop/iron vanguard/video_1_coca_cola/ElevenLabs_2026-10-19T14_37_48_Adam - Deep, Professional and Serious_pvc_sp100_s45_sb50_se0_b_m2.mp3": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_1_coca_cola\\ElevenLabs_2026-10-19T14_37_48_Adam - Deep, Professional and Serious_pvc_sp100_s45_sb50_se0_b_m2.mp3",
+  "C:/Users/ufuq/Desktop/edit fx/SFX Pack Mini/Bass Whoosh Sound Effect By Techno @AliDesign2022.mp3": "C:\\Users\\ufuq\\Desktop\\edit fx\\SFX Pack Mini\\Bass Whoosh Sound Effect By Techno @AliDesign2022.mp3",
+  "C:/Users/ufuq/Desktop/edit fx/SFX Pack Mini/gaming mouse click @AliDesign2022.mp3": "C:\\Users\\ufuq\\Desktop\\edit fx\\SFX Pack Mini\\gaming mouse click @AliDesign2022.mp3",
+  "C:/Users/ufuq/Desktop/edit fx/Bass Impact - Sound Effect for editing.mp3": "C:\\Users\\ufuq\\Desktop\\edit fx\\Bass Impact - Sound Effect for editing.mp3",
+  "C:/Users/ufuq/Desktop/edit fx/BUBBLE POP SOUND EFFECT - FREE.mp3": "C:\\Users\\ufuq\\Desktop\\edit fx\\BUBBLE POP SOUND EFFECT - FREE.mp3",
+  "C:/Users/ufuq/Desktop/edit fx/SFX Pack Mini/Deep Whoosh Sound Effect @AliDesign2022.mp3": "C:\\Users\\ufuq\\Desktop\\edit fx\\SFX Pack Mini\\Deep Whoosh Sound Effect @AliDesign2022.mp3",
+  "C:/Users/ufuq/Desktop/edit fx/SFX Pack Mini/boom impact @AliDesign2022.mp3": "C:\\Users\\ufuq\\Desktop\\edit fx\\SFX Pack Mini\\boom impact @AliDesign2022.mp3",
+  "C:/Users/ufuq/Desktop/edit fx/SFX Pack Mini/Boop Sound Effect By Techno @AliDesign2022.mp3": "C:\\Users\\ufuq\\Desktop\\edit fx\\SFX Pack Mini\\Boop Sound Effect By Techno @AliDesign2022.mp3",
+  "C:/Users/ufuq/Desktop/edit fx/SFX Pack Mini/Paper Flip 1 @AliDesign2022.wav": "C:\\Users\\ufuq\\Desktop\\edit fx\\SFX Pack Mini\\Paper Flip 1 @AliDesign2022.wav",
+  "C:/Users/ufuq/Desktop/edit fx/Camera Flash Sound Effect to Make Your Videos More Engaging – HM SFX Library.mp3": "C:\\Users\\ufuq\\Desktop\\edit fx\\Camera Flash Sound Effect to Make Your Videos More Engaging – HM SFX Library.mp3"
+ },
+ "layouts": [
+  {
+   "text": "1985\nKRİZ",
+   "style": "num",
+   "size_final": 12.0,
+   "sizes": [
+    12.0,
+    12.0
+   ],
+   "lines": [
+    "1985",
+    "KRİZ"
+   ],
+   "n_main": 2,
+   "rot": 0.0,
+   "cx": 961.09906858,
+   "cy": 209.39211999999998,
+   "bw": 354.19813716,
+   "bh": 278.78423999999995,
+   "w1": 334.149186,
+   "h1": 263.00399999999996,
+   "choice": "top x=961",
+   "fits": true,
+   "shrunk": 0,
+   "busy": 1.0,
+   "tx": 0.0011448631041666602,
+   "ty": 0.6122368148148148,
+   "color": [
+    1.0,
+    0.84,
+    0.26
+   ],
+   "sub_color": null,
+   "start": 0.0,
+   "end": 9.0,
+   "img": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_1_coca_cola\\sahne_gorselleri\\01.jpg"
+  },
+  {
+   "text": "NÜKLEER Mİ?",
+   "style": "stamp",
+   "size_final": 9.1,
+   "sizes": [
+    9.1
+   ],
+   "lines": [
+    "NÜKLEER Mİ?"
+   ],
+   "n_main": 1,
+   "rot": -8.0,
+   "cx": 779.4219326750824,
+   "cy": 174.12101750828978,
+   "bw": 758.8438653501638,
+   "bh": 208.24203501657956,
+   "w1": 709.0496048999998,
+   "h1": 98.73499999999999,
+   "choice": "top x=779",
+   "fits": true,
+   "shrunk": 1,
+   "busy": 0.311,
+   "tx": -0.18810215346345582,
+   "ty": 0.6775536712809448,
+   "color": [
+    0.93,
+    0.23,
+    0.2
+   ],
+   "sub_color": null,
+   "start": 9.0,
+   "end": 14.0,
+   "img": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_1_coca_cola\\sahne_gorselleri\\02.jpg"
+  },
+  {
+   "text": "COCA-COLA",
+   "style": "big",
+   "size_final": 17.0,
+   "sizes": [
+    17.0
+   ],
+   "lines": [
+    "COCA-COLA"
+   ],
+   "n_main": 1,
+   "rot": 0.0,
+   "cx": 964.82399796,
+   "cy": 167.7585,
+   "bw": 1321.64799592,
+   "bh": 195.517,
+   "w1": 1246.837732,
+   "h1": 184.45,
+   "choice": "top x=965",
+   "fits": true,
+   "shrunk": 0,
+   "busy": 1.0,
+   "tx": 0.0050249978750000444,
+   "ty": 0.689336111111111,
+   "color": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "sub_color": null,
+   "start": 17.0,
+   "end": 20.0,
+   "img": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_1_coca_cola\\sahne_gorselleri\\04.jpg"
+  },
+  {
+   "text": "PEPSI CHALLENGE",
+   "style": "label",
+   "size_final": 7.65,
+   "sizes": [
+    7.6499999999999995
+   ],
+   "lines": [
+    "PEPSI CHALLENGE"
+   ],
+   "n_main": 1,
+   "rot": 0.0,
+   "cx": 745.030629655,
+   "cy": 966.008675,
+   "bw": 882.06125931,
+   "bh": 87.98264999999999,
+   "w1": 832.1332635,
+   "h1": 83.00249999999998,
+   "choice": "bottom x=745",
+   "fits": true,
+   "shrunk": 1,
+   "busy": 0.127,
+   "tx": -0.22392642744270835,
+   "ty": -0.7889049537037037,
+   "color": [
+    1.0,
+    0.84,
+    0.26
+   ],
+   "sub_color": null,
+   "start": 45.0,
+   "end": 49.0,
+   "img": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_1_coca_cola\\sahne_gorselleri\\10.jpg"
+  },
+  {
+   "text": "PANİK!",
+   "style": "stamp",
+   "size_final": 7.15,
+   "sizes": [
+    7.15
+   ],
+   "lines": [
+    "PANİK!"
+   ],
+   "n_main": 1,
+   "rot": -8.0,
+   "cx": 1651.6466994722755,
+   "cy": 131.88574952486397,
+   "bw": 312.70660105544925,
+   "bh": 123.77149904972791,
+   "w1": 287.00261589999997,
+   "h1": 77.5775,
+   "choice": "top x=1652",
+   "fits": true,
+   "shrunk": 1,
+   "busy": 0.0,
+   "tx": 0.720465311950287,
+   "ty": 0.7557671305095112,
+   "color": [
+    0.93,
+    0.23,
+    0.2
+   ],
+   "sub_color": null,
+   "start": 64.0,
+   "end": 66.0,
+   "img": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_1_coca_cola\\sahne_gorselleri\\14.jpg"
+  },
+  {
+   "text": "99 YILLIK TARİF\nÇÖPE!",
+   "style": "stamp",
+   "size_final": 7.15,
+   "sizes": [
+    7.15,
+    7.15
+   ],
+   "lines": [
+    "99 YILLIK TARİF",
+    "ÇÖPE!"
+   ],
+   "n_main": 2,
+   "rot": -8.0,
+   "cx": 499.9717952569061,
+   "cy": 200.6502600795662,
+   "bw": 711.9435905138122,
+   "bh": 261.3005201591324,
+   "w1": 656.2218663000001,
+   "h1": 156.70655000000002,
+   "choice": "top x=500",
+   "fits": true,
+   "shrunk": 1,
+   "busy": 0.0,
+   "tx": -0.4791960466073895,
+   "ty": 0.6284254442970996,
+   "color": [
+    0.93,
+    0.23,
+    0.2
+   ],
+   "sub_color": null,
+   "start": 72.0,
+   "end": 79.0,
+   "img": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_1_coca_cola\\sahne_gorselleri\\16.jpg"
+  },
+  {
+   "text": "200.000 KİŞİ",
+   "style": "num",
+   "size_final": 12.0,
+   "sizes": [
+    12.0
+   ],
+   "lines": [
+    "200.000 KİŞİ"
+   ],
+   "n_main": 1,
+   "rot": 0.0,
+   "cx": 946.3388288599999,
+   "cy": 139.006,
+   "bw": 964.67765772,
+   "bh": 138.012,
+   "w1": 910.0732619999999,
+   "h1": 130.2,
+   "choice": "top x=946",
+   "fits": true,
+   "shrunk": 0,
+   "busy": 1.0,
+   "tx": -0.014230386604166749,
+   "ty": 0.7425814814814815,
+   "color": [
+    1.0,
+    0.84,
+    0.26
+   ],
+   "sub_color": null,
+   "start": 79.0,
+   "end": 85.0,
+   "img": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_1_coca_cola\\sahne_gorselleri\\17.jpg"
+  },
+  {
+   "text": "23 NİSAN 1985",
+   "style": "year",
+   "size_final": 6.5,
+   "sizes": [
+    6.5
+   ],
+   "lines": [
+    "23 NİSAN 1985"
+   ],
+   "n_main": 1,
+   "rot": 0.0,
+   "cx": 385.1831854275,
+   "cy": 195.0,
+   "bw": 578.366370855,
+   "bh": 74.75649999999999,
+   "w1": 545.62865175,
+   "h1": 70.52499999999999,
+   "choice": "box",
+   "fits": true,
+   "shrunk": 18,
+   "busy": 0.725,
+   "tx": -0.5987675151796875,
+   "ty": 0.6388888888888888,
+   "color": [
+    1.0,
+    0.84,
+    0.26
+   ],
+   "sub_color": null,
+   "start": 88.0,
+   "end": 94.0,
+   "img": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_1_coca_cola\\sahne_gorselleri\\19.jpg"
+  },
+  {
+   "text": "NEW COKE",
+   "style": "label",
+   "size_final": 9.0,
+   "sizes": [
+    9.0
+   ],
+   "lines": [
+    "NEW COKE"
+   ],
+   "n_main": 1,
+   "rot": 0.0,
+   "cx": 973.563024275,
+   "cy": 121.75450000000001,
+   "bw": 635.12604855,
+   "bh": 103.509,
+   "w1": 599.1755175,
+   "h1": 97.64999999999999,
+   "choice": "top x=974",
+   "fits": true,
+   "shrunk": 0,
+   "busy": 1.0,
+   "tx": 0.014128150286458308,
+   "ty": 0.7745287037037036,
+   "color": [
+    1.0,
+    0.84,
+    0.26
+   ],
+   "sub_color": null,
+   "start": 94.0,
+   "end": 100.0,
+   "img": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_1_coca_cola\\sahne_gorselleri\\20.jpg"
+  },
+  {
+   "text": "FUN FACT: NO.",
+   "style": "stamp",
+   "size_final": 9.1,
+   "sizes": [
+    9.1
+   ],
+   "lines": [
+    "FUN FACT: NO."
+   ],
+   "n_main": 1,
+   "rot": -8.0,
+   "cx": 531.8433075685145,
+   "cy": 540.0,
+   "bw": 839.6866151370291,
+   "bh": 219.6037425512622,
+   "w1": 786.06586695,
+   "h1": 98.73499999999999,
+   "choice": "middle x=532",
+   "fits": true,
+   "shrunk": 1,
+   "busy": 0.007,
+   "tx": -0.4459965546161307,
+   "ty": 0.0,
+   "color": [
+    0.93,
+    0.23,
+    0.2
+   ],
+   "sub_color": null,
+   "start": 106.0,
+   "end": 108.0,
+   "img": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_1_coca_cola\\sahne_gorselleri\\22.jpg"
+  },
+  {
+   "text": "SÜPERMARKET\nYAĞMASI",
+   "style": "stamp",
+   "size_final": 7.15,
+   "sizes": [
+    7.15,
+    7.15
+   ],
+   "lines": [
+    "SÜPERMARKET",
+    "YAĞMASI"
+   ],
+   "n_main": 2,
+   "rot": -8.0,
+   "cx": 875.1278867582744,
+   "cy": 880.592670202863,
+   "bw": 694.2557735165487,
+   "bh": 258.81465959427385,
+   "w1": 639.371257525,
+   "h1": 156.70655000000002,
+   "choice": "bottom x=875",
+   "fits": true,
+   "shrunk": 1,
+   "busy": 0.633,
+   "tx": -0.0884084512934642,
+   "ty": -0.6307271670423389,
+   "color": [
+    0.93,
+    0.23,
+    0.2
+   ],
+   "sub_color": null,
+   "start": 119.0,
+   "end": 123.0,
+   "img": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_1_coca_cola\\sahne_gorselleri\\25.jpg"
+  },
+  {
+   "text": "GÜNDE 8.000 ÇAĞRI",
+   "style": "num",
+   "size_final": 6.6,
+   "sizes": [
+    6.6000000000000005
+   ],
+   "lines": [
+    "GÜNDE 8.000 ÇAĞRI"
+   ],
+   "n_main": 1,
+   "rot": 0.0,
+   "cx": 1201.4521420300002,
+   "cy": 107.95330000000001,
+   "bw": 834.9042840600002,
+   "bh": 75.90660000000001,
+   "w1": 787.6455510000002,
+   "h1": 71.61,
+   "choice": "top x=1201",
+   "fits": true,
+   "shrunk": 1,
+   "busy": 0.024,
+   "tx": 0.2515126479479169,
+   "ty": 0.8000864814814814,
+   "color": [
+    1.0,
+    0.84,
+    0.26
+   ],
+   "sub_color": null,
+   "start": 129.0,
+   "end": 133.0,
+   "img": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_1_coca_cola\\sahne_gorselleri\\28.jpg"
+  },
+  {
+   "text": "CANAVARLAR!",
+   "style": "stamp",
+   "size_final": 7.15,
+   "sizes": [
+    7.15
+   ],
+   "lines": [
+    "CANAVARLAR!"
+   ],
+   "n_main": 1,
+   "rot": -8.0,
+   "cx": 439.17578931163985,
+   "cy": 155.8932846844953,
+   "bw": 654.3515786232797,
+   "bh": 171.7865693689906,
+   "w1": 612.476689825,
+   "h1": 77.5775,
+   "choice": "top x=439",
+   "fits": true,
+   "shrunk": 1,
+   "busy": 0.0,
+   "tx": -0.5425252194670418,
+   "ty": 0.7113087320657494,
+   "color": [
+    0.93,
+    0.23,
+    0.2
+   ],
+   "sub_color": null,
+   "start": 139.0,
+   "end": 143.0,
+   "img": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_1_coca_cola\\sahne_gorselleri\\31.jpg"
+  },
+  {
+   "text": "FIDEL CASTRO",
+   "style": "label",
+   "size_final": 7.65,
+   "sizes": [
+    7.6499999999999995
+   ],
+   "lines": [
+    "FIDEL CASTRO"
+   ],
+   "n_main": 1,
+   "rot": 0.0,
+   "cx": 491.7364670745,
+   "cy": 113.99132499999999,
+   "bw": 695.472934149,
+   "bh": 87.98264999999999,
+   "w1": 656.1065416499999,
+   "h1": 83.00249999999998,
+   "choice": "top x=492",
+   "fits": true,
+   "shrunk": 1,
+   "busy": 0.295,
+   "tx": -0.4877745134640625,
+   "ty": 0.7889049537037037,
+   "color": [
+    0.36,
+    0.85,
+    0.42
+   ],
+   "sub_color": null,
+   "start": 143.0,
+   "end": 145.0,
+   "img": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_1_coca_cola\\sahne_gorselleri\\32.jpg"
+  },
+  {
+   "text": "SOKAK PROTESTOSU",
+   "style": "stamp",
+   "size_final": 8.22,
+   "sizes": [
+    8.225
+   ],
+   "lines": [
+    "SOKAK PROTESTOSU"
+   ],
+   "n_main": 1,
+   "rot": -8.0,
+   "cx": 1131.0938314311595,
+   "cy": 191.6771372855098,
+   "bw": 1078.187662862319,
+   "bh": 243.35427457101954,
+   "w1": 1014.6123284500001,
+   "h1": 89.24125,
+   "choice": "top x=1131",
+   "fits": true,
+   "shrunk": 6,
+   "busy": 0.563,
+   "tx": 0.1782227410741245,
+   "ty": 0.6450423383601671,
+   "color": [
+    0.93,
+    0.23,
+    0.2
+   ],
+   "sub_color": null,
+   "start": 151.0,
+   "end": 153.0,
+   "img": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_1_coca_cola\\sahne_gorselleri\\35.jpg"
+  },
+  {
+   "text": "79 GÜN SÜRDÜ",
+   "style": "num",
+   "size_final": 6.6,
+   "sizes": [
+    6.6000000000000005
+   ],
+   "lines": [
+    "79 GÜN SÜRDÜ"
+   ],
+   "n_main": 1,
+   "rot": 0.0,
+   "cx": 418.91163764800007,
+   "cy": 107.95330000000001,
+   "bw": 613.8232752960001,
+   "bh": 75.90660000000001,
+   "w1": 579.0785616000001,
+   "h1": 71.61,
+   "choice": "top x=419",
+   "fits": true,
+   "shrunk": 1,
+   "busy": 0.629,
+   "tx": -0.5636337107833332,
+   "ty": 0.8000864814814814,
+   "color": [
+    1.0,
+    0.84,
+    0.26
+   ],
+   "sub_color": null,
+   "start": 160.0,
+   "end": 164.0,
+   "img": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_1_coca_cola\\sahne_gorselleri\\39.jpg"
+  },
+  {
+   "text": "COCA-COLA\nPES ETTİ",
+   "style": "stamp",
+   "size_final": 7.15,
+   "sizes": [
+    7.15,
+    7.15
+   ],
+   "lines": [
+    "COCA-COLA",
+    "PES ETTİ"
+   ],
+   "n_main": 2,
+   "rot": -8.0,
+   "cx": 430.78890512967905,
+   "cy": 190.92723895396188,
+   "bw": 573.5778102593581,
+   "bh": 241.85447790792375,
+   "w1": 524.4052814,
+   "h1": 156.70655000000002,
+   "choice": "top x=431",
+   "fits": true,
+   "shrunk": 1,
+   "busy": 0.0,
+   "tx": -0.5512615571565843,
+   "ty": 0.6464310389741447,
+   "color": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "sub_color": null,
+   "start": 164.0,
+   "end": 166.0,
+   "img": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_1_coca_cola\\sahne_gorselleri\\40.jpg"
+  },
+  {
+   "text": "11 TEMMUZ 1985",
+   "style": "year",
+   "size_final": 5.75,
+   "sizes": [
+    5.75
+   ],
+   "lines": [
+    "11 TEMMUZ 1985"
+   ],
+   "n_main": 1,
+   "rot": 0.0,
+   "cx": 378.88155750749996,
+   "cy": 195.0,
+   "bw": 565.7631150149999,
+   "bh": 66.13074999999999,
+   "w1": 533.7387877499999,
+   "h1": 62.387499999999996,
+   "choice": "box",
+   "fits": true,
+   "shrunk": 21,
+   "busy": 0.741,
+   "tx": -0.6053317109296875,
+   "ty": 0.6388888888888888,
+   "color": [
+    1.0,
+    0.84,
+    0.26
+   ],
+   "sub_color": null,
+   "start": 166.0,
+   "end": 169.0,
+   "img": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_1_coca_cola\\sahne_gorselleri\\41.jpg"
+  },
+  {
+   "text": "COCA-COLA CLASSIC\nGERİ DÖNDÜ",
+   "style": "label",
+   "size_final": 7.65,
+   "sizes": [
+    7.6499999999999995,
+    7.6499999999999995
+   ],
+   "lines": [
+    "COCA-COLA CLASSIC",
+    "GERİ DÖNDÜ"
+   ],
+   "n_main": 2,
+   "rot": 0.0,
+   "cx": 619.16498809375,
+   "cy": 921.1375235,
+   "bw": 1014.3299761875,
+   "bh": 177.724953,
+   "w1": 956.915071875,
+   "h1": 167.66504999999998,
+   "choice": "bottom x=619",
+   "fits": true,
+   "shrunk": 1,
+   "busy": 0.222,
+   "tx": -0.35503647073567707,
+   "ty": -0.7058102287037038,
+   "color": [
+    0.36,
+    0.85,
+    0.42
+   ],
+   "sub_color": null,
+   "start": 171.0,
+   "end": 176.0,
+   "img": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_1_coca_cola\\sahne_gorselleri\\43.jpg"
+  },
+  {
+   "text": "SENATO ALKIŞI!",
+   "style": "label",
+   "size_final": 9.0,
+   "sizes": [
+    9.0
+   ],
+   "lines": [
+    "SENATO ALKIŞI!"
+   ],
+   "n_main": 1,
+   "rot": 0.0,
+   "cx": 967.060853385,
+   "cy": 121.75450000000001,
+   "bw": 878.12170677,
+   "bh": 103.509,
+   "w1": 828.4167044999999,
+   "h1": 97.64999999999999,
+   "choice": "top x=967",
+   "fits": true,
+   "shrunk": 0,
+   "busy": 1.0,
+   "tx": 0.007355055609374972,
+   "ty": 0.7745287037037036,
+   "color": [
+    0.36,
+    0.85,
+    0.42
+   ],
+   "sub_color": null,
+   "start": 178.0,
+   "end": 182.0,
+   "img": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_1_coca_cola\\sahne_gorselleri\\45.jpg"
+  },
+  {
+   "text": "SATIŞ PATLAMASI!",
+   "style": "stamp",
+   "size_final": 7.15,
+   "sizes": [
+    7.15
+   ],
+   "lines": [
+    "SATIŞ PATLAMASI!"
+   ],
+   "n_main": 1,
+   "rot": -8.0,
+   "cx": 677.9867768684119,
+   "cy": 166.9694466594438,
+   "bw": 811.9735537368236,
+   "bh": 193.93889331888764,
+   "w1": 762.6380261500001,
+   "h1": 77.5775,
+   "choice": "top x=678",
+   "fits": true,
+   "shrunk": 1,
+   "busy": 0.359,
+   "tx": -0.2937637740954043,
+   "ty": 0.69079732100103,
+   "color": [
+    0.36,
+    0.85,
+    0.42
+   ],
+   "sub_color": null,
+   "start": 185.0,
+   "end": 187.0,
+   "img": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_1_coca_cola\\sahne_gorselleri\\47.jpg"
+  },
+  {
+   "text": "PEPSI EZİLDİ!",
+   "style": "stamp",
+   "size_final": 7.15,
+   "sizes": [
+    7.15
+   ],
+   "lines": [
+    "PEPSI EZİLDİ!"
+   ],
+   "n_main": 1,
+   "rot": -8.0,
+   "cx": 1514.7621649762127,
+   "cy": 151.12361626078888,
+   "bw": 586.4756700475746,
+   "bh": 162.24723252157779,
+   "w1": 547.81351625,
+   "h1": 77.5775,
+   "choice": "top x=1515",
+   "fits": true,
+   "shrunk": 1,
+   "busy": 0.0,
+   "tx": 0.5778772551835549,
+   "ty": 0.7201414513689095,
+   "color": [
+    0.93,
+    0.23,
+    0.2
+   ],
+   "sub_color": null,
+   "start": 187.0,
+   "end": 192.0,
+   "img": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_1_coca_cola\\sahne_gorselleri\\48.jpg"
+  },
+  {
+   "text": "O KADAR\nZEKİ DEĞİLİZ",
+   "style": "quote",
+   "size_final": 8.5,
+   "sizes": [
+    8.5,
+    8.5
+   ],
+   "lines": [
+    "O KADAR",
+    "ZEKİ DEĞİLİZ"
+   ],
+   "n_main": 2,
+   "rot": 0.0,
+   "cx": 482.5186225925,
+   "cy": 168.736085,
+   "bw": 677.037245185,
+   "bh": 197.47217,
+   "w1": 638.71438225,
+   "h1": 186.2945,
+   "choice": "top x=483",
+   "fits": true,
+   "shrunk": 0,
+   "busy": 0.0,
+   "tx": -0.4973764347994792,
+   "ty": 0.6875257685185185,
+   "color": [
+    1.0,
+    0.84,
+    0.26
+   ],
+   "sub_color": null,
+   "start": 200.0,
+   "end": 202.0,
+   "img": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_1_coca_cola\\sahne_gorselleri\\51.jpg"
+  },
+  {
+   "text": "O KADAR\nAPTAL DA DEĞİLİZ",
+   "style": "quote",
+   "size_final": 7.22,
+   "sizes": [
+    7.225,
+    7.225
+   ],
+   "lines": [
+    "O KADAR",
+    "APTAL DA DEĞİLİZ"
+   ],
+   "n_main": 2,
+   "rot": 0.0,
+   "cx": 527.239713349125,
+   "cy": 153.92567225,
+   "bw": 830.4794266982501,
+   "bh": 167.8513445,
+   "w1": 783.4711572625,
+   "h1": 158.350325,
+   "choice": "top x=527",
+   "fits": true,
+   "shrunk": 1,
+   "busy": 0.098,
+   "tx": -0.4507919652613281,
+   "ty": 0.7149524587962963,
+   "color": [
+    1.0,
+    0.84,
+    0.26
+   ],
+   "sub_color": null,
+   "start": 202.0,
+   "end": 205.0,
+   "img": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_1_coca_cola\\sahne_gorselleri\\52.jpg"
+  },
+  {
+   "text": "BEĞEN & ABONE OL",
+   "style": "cta",
+   "size_final": 6.75,
+   "sizes": [
+    6.75
+   ],
+   "lines": [
+    "BEĞEN & ABONE OL"
+   ],
+   "n_main": 1,
+   "rot": 0.0,
+   "cx": 1362.0,
+   "cy": 813.0,
+   "bw": 840.5057598524999,
+   "bh": 77.63175,
+   "w1": 792.9299621249999,
+   "h1": 73.2375,
+   "choice": "box",
+   "fits": true,
+   "shrunk": 17,
+   "busy": 1.0,
+   "tx": 0.41875,
+   "ty": -0.5055555555555555,
+   "color": [
+    0.93,
+    0.23,
+    0.2
+   ],
+   "sub_color": null,
+   "start": 213.0,
+   "end": 216.0,
+   "img": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_1_coca_cola\\sahne_gorselleri\\56.jpg"
+  }
+ ],
+ "music": [],
+ "vo_median_st": -16.62296313545631,
+ "measure_font": "C:\\Users\\ufuq\\Desktop\\iron vanguard\\capcut-editing-automation\\capcut-editing-automation\\assets\\fonts\\Metropolis-Medium.ttf",
+ "draft_font": "",
+ "md5": "09ff60553d4aedd1378d0798d1b381a1",
+ "warnings": [
+  "the project timeline already had 177 clips; the build replaces the whole timeline",
+  "text '11 TEMMUZ 1985' at 166.00s is small (size 5.8); shorten the text or place it with pos/size"
+ ]
+}

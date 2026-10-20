@@ -1,0 +1,739 @@
+{
+ "content_name": "draft_content.json",
+ "fps": 30,
+ "end": 228.63333333333333,
+ "os": "windows",
+ "timeline_id": "6184DEC9-D500-43cf-9C85-7C77BFE55073",
+ "device_to_local": {
+  "C:/Users/ufuq/Desktop/iron vanguard/video_2_atm/sahne_gorselleri/01.jpg": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_2_atm\\sahne_gorselleri\\01.jpg",
+  "C:/Users/ufuq/Desktop/iron vanguard/video_2_atm/sahne_gorselleri/02.jpg": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_2_atm\\sahne_gorselleri\\02.jpg",
+  "C:/Users/ufuq/Desktop/iron vanguard/video_2_atm/sahne_gorselleri/03.jpg": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_2_atm\\sahne_gorselleri\\03.jpg",
+  "C:/Users/ufuq/Desktop/iron vanguard/video_2_atm/sahne_gorselleri/04.jpg": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_2_atm\\sahne_gorselleri\\04.jpg",
+  "C:/Users/ufuq/Desktop/iron vanguard/video_2_atm/sahne_gorselleri/05.jpg": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_2_atm\\sahne_gorselleri\\05.jpg",
+  "C:/Users/ufuq/Desktop/iron vanguard/video_2_atm/sahne_gorselleri/06.jpg": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_2_atm\\sahne_gorselleri\\06.jpg",
+  "C:/Users/ufuq/Desktop/iron vanguard/video_2_atm/sahne_gorselleri/07.jpg": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_2_atm\\sahne_gorselleri\\07.jpg",
+  "C:/Users/ufuq/Desktop/iron vanguard/video_2_atm/sahne_gorselleri/08.jpg": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_2_atm\\sahne_gorselleri\\08.jpg",
+  "C:/Users/ufuq/Desktop/iron vanguard/video_2_atm/sahne_gorselleri/09.jpg": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_2_atm\\sahne_gorselleri\\09.jpg",
+  "C:/Users/ufuq/Desktop/iron vanguard/video_2_atm/sahne_gorselleri/10.jpg": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_2_atm\\sahne_gorselleri\\10.jpg",
+  "C:/Users/ufuq/Desktop/iron vanguard/video_2_atm/sahne_gorselleri/11.jpg": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_2_atm\\sahne_gorselleri\\11.jpg",
+  "C:/Users/ufuq/Desktop/iron vanguard/video_2_atm/sahne_gorselleri/12.jpg": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_2_atm\\sahne_gorselleri\\12.jpg",
+  "C:/Users/ufuq/Desktop/iron vanguard/video_2_atm/sahne_gorselleri/13.jpg": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_2_atm\\sahne_gorselleri\\13.jpg",
+  "C:/Users/ufuq/Desktop/iron vanguard/video_2_atm/sahne_gorselleri/14.jpg": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_2_atm\\sahne_gorselleri\\14.jpg",
+  "C:/Users/ufuq/Desktop/iron vanguard/video_2_atm/sahne_gorselleri/15.jpg": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_2_atm\\sahne_gorselleri\\15.jpg",
+  "C:/Users/ufuq/Desktop/iron vanguard/video_2_atm/sahne_gorselleri/16.jpg": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_2_atm\\sahne_gorselleri\\16.jpg",
+  "C:/Users/ufuq/Desktop/iron vanguard/video_2_atm/sahne_gorselleri/17.jpg": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_2_atm\\sahne_gorselleri\\17.jpg",
+  "C:/Users/ufuq/Desktop/iron vanguard/video_2_atm/sahne_gorselleri/18.jpg": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_2_atm\\sahne_gorselleri\\18.jpg",
+  "C:/Users/ufuq/Desktop/iron vanguard/video_2_atm/sahne_gorselleri/19.jpg": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_2_atm\\sahne_gorselleri\\19.jpg",
+  "C:/Users/ufuq/Desktop/iron vanguard/video_2_atm/sahne_gorselleri/20.jpg": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_2_atm\\sahne_gorselleri\\20.jpg",
+  "C:/Users/ufuq/Desktop/iron vanguard/video_2_atm/sahne_gorselleri/21.jpg": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_2_atm\\sahne_gorselleri\\21.jpg",
+  "C:/Users/ufuq/Desktop/iron vanguard/video_2_atm/sahne_gorselleri/22.jpg": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_2_atm\\sahne_gorselleri\\22.jpg",
+  "C:/Users/ufuq/Desktop/iron vanguard/video_2_atm/sahne_gorselleri/23.jpg": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_2_atm\\sahne_gorselleri\\23.jpg",
+  "C:/Users/ufuq/Desktop/iron vanguard/video_2_atm/sahne_gorselleri/24.jpg": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_2_atm\\sahne_gorselleri\\24.jpg",
+  "C:/Users/ufuq/Desktop/iron vanguard/video_2_atm/sahne_gorselleri/25.jpg": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_2_atm\\sahne_gorselleri\\25.jpg",
+  "C:/Users/ufuq/Desktop/iron vanguard/video_2_atm/sahne_gorselleri/26.jpg": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_2_atm\\sahne_gorselleri\\26.jpg",
+  "C:/Users/ufuq/Desktop/iron vanguard/video_2_atm/sahne_gorselleri/27.jpg": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_2_atm\\sahne_gorselleri\\27.jpg",
+  "C:/Users/ufuq/Desktop/iron vanguard/video_2_atm/sahne_gorselleri/28.jpg": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_2_atm\\sahne_gorselleri\\28.jpg",
+  "C:/Users/ufuq/Desktop/iron vanguard/video_2_atm/sahne_gorselleri/29.jpg": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_2_atm\\sahne_gorselleri\\29.jpg",
+  "C:/Users/ufuq/Desktop/iron vanguard/video_2_atm/sahne_gorselleri/30.jpg": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_2_atm\\sahne_gorselleri\\30.jpg",
+  "C:/Users/ufuq/Desktop/iron vanguard/video_2_atm/sahne_gorselleri/31.jpg": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_2_atm\\sahne_gorselleri\\31.jpg",
+  "C:/Users/ufuq/Desktop/iron vanguard/video_2_atm/sahne_gorselleri/32.jpg": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_2_atm\\sahne_gorselleri\\32.jpg",
+  "C:/Users/ufuq/Desktop/iron vanguard/video_2_atm/sahne_gorselleri/33.jpg": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_2_atm\\sahne_gorselleri\\33.jpg",
+  "C:/Users/ufuq/Desktop/iron vanguard/video_2_atm/sahne_gorselleri/34.jpg": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_2_atm\\sahne_gorselleri\\34.jpg",
+  "C:/Users/ufuq/Desktop/iron vanguard/video_2_atm/sahne_gorselleri/35.jpg": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_2_atm\\sahne_gorselleri\\35.jpg",
+  "C:/Users/ufuq/Desktop/iron vanguard/video_2_atm/sahne_gorselleri/36.jpg": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_2_atm\\sahne_gorselleri\\36.jpg",
+  "C:/Users/ufuq/Desktop/iron vanguard/video_2_atm/sahne_gorselleri/37.jpg": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_2_atm\\sahne_gorselleri\\37.jpg",
+  "C:/Users/ufuq/Desktop/iron vanguard/video_2_atm/sahne_gorselleri/38.jpg": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_2_atm\\sahne_gorselleri\\38.jpg",
+  "C:/Users/ufuq/Desktop/iron vanguard/video_2_atm/sahne_gorselleri/39.jpg": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_2_atm\\sahne_gorselleri\\39.jpg",
+  "C:/Users/ufuq/Desktop/iron vanguard/video_2_atm/sahne_gorselleri/40.jpg": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_2_atm\\sahne_gorselleri\\40.jpg",
+  "C:/Users/ufuq/Desktop/iron vanguard/video_2_atm/sahne_gorselleri/41.jpg": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_2_atm\\sahne_gorselleri\\41.jpg",
+  "C:/Users/ufuq/Desktop/iron vanguard/video_2_atm/ElevenLabs_2026-10-20T18_07_34_Piko - Playful Turkish Narrator_pvc_sp110_s55_sb80_se0_b_m2.mp3": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_2_atm\\ElevenLabs_2026-10-20T18_07_34_Piko - Playful Turkish Narrator_pvc_sp110_s55_sb80_se0_b_m2.mp3",
+  "C:/Users/ufuq/Desktop/iron vanguard/ses efektleri/Low Slow Whoosh.wav": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\ses efektleri\\Low Slow Whoosh.wav",
+  "C:/Users/ufuq/Desktop/iron vanguard/ses efektleri/Mouse Click 1.wav": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\ses efektleri\\Mouse Click 1.wav",
+  "C:/Users/ufuq/Desktop/iron vanguard/ses efektleri/Cash Register.mp3": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\ses efektleri\\Cash Register.mp3",
+  "C:/Users/ufuq/Desktop/iron vanguard/ses efektleri/Ding Sound Effect.mp3": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\ses efektleri\\Ding Sound Effect.mp3",
+  "C:/Users/ufuq/Desktop/iron vanguard/ses efektleri/Glitch.wav": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\ses efektleri\\Glitch.wav",
+  "C:/Users/ufuq/Desktop/iron vanguard/ses efektleri/Hard Hit 2.mp3": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\ses efektleri\\Hard Hit 2.mp3",
+  "C:/Users/ufuq/Desktop/iron vanguard/ses efektleri/Keyboard.mp3": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\ses efektleri\\Keyboard.mp3",
+  "C:/Users/ufuq/Desktop/iron vanguard/ses efektleri/Bass Beats.wav": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\ses efektleri\\Bass Beats.wav",
+  "C:/Users/ufuq/Desktop/iron vanguard/ses efektleri/Hard Hit 4.mp3": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\ses efektleri\\Hard Hit 4.mp3",
+  "C:/Users/ufuq/Desktop/iron vanguard/ses efektleri/Pop 1.wav": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\ses efektleri\\Pop 1.wav",
+  "C:/Users/ufuq/Desktop/iron vanguard/ses efektleri/2. Whoosh Swoosh.wav": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\ses efektleri\\2. Whoosh Swoosh.wav",
+  "C:/Users/ufuq/Desktop/iron vanguard/ses efektleri/Low Boom.mp3": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\ses efektleri\\Low Boom.mp3",
+  "C:/Users/ufuq/Desktop/iron vanguard/ses efektleri/Hard Hit 5.mp3": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\ses efektleri\\Hard Hit 5.mp3",
+  "C:/Users/ufuq/Desktop/iron vanguard/ses efektleri/Clock Ticking.mp3": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\ses efektleri\\Clock Ticking.mp3",
+  "C:/Users/ufuq/Desktop/iron vanguard/ses efektleri/Camera Flash.mp3": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\ses efektleri\\Camera Flash.mp3",
+  "C:/Users/ufuq/Desktop/iron vanguard/ses efektleri/Hard hit 1.mp3": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\ses efektleri\\Hard hit 1.mp3"
+ },
+ "layouts": [
+  {
+   "text": "JACKPOT!\n200$ NAKİT",
+   "style": "stamp",
+   "size_final": 13.0,
+   "sizes": [
+    13.0,
+    13.0
+   ],
+   "lines": [
+    "JACKPOT!",
+    "200$ NAKİT"
+   ],
+   "n_main": 2,
+   "rot": -8.0,
+   "cx": 1297.5759564709806,
+   "cy": 288.32030630001424,
+   "bw": 1020.848087058039,
+   "bh": 436.6406126000285,
+   "w1": 932.4857814999999,
+   "h1": 284.921,
+   "choice": "top x=1298",
+   "fits": true,
+   "shrunk": 0,
+   "busy": 1.0,
+   "tx": 0.3516416213239381,
+   "ty": 0.46607350685182547,
+   "color": [
+    0.36,
+    0.85,
+    0.42
+   ],
+   "sub_color": null,
+   "start": 18.0,
+   "end": 24.0,
+   "img": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_2_atm\\sahne_gorselleri\\06.jpg"
+  },
+  {
+   "text": "BAKİYE:\n3 DOLAR?!",
+   "style": "label",
+   "size_final": 9.0,
+   "sizes": [
+    9.0,
+    9.0
+   ],
+   "lines": [
+    "BAKİYE:",
+    "3 DOLAR?!"
+   ],
+   "n_main": 2,
+   "rot": 0.0,
+   "cx": 951.2459663300001,
+   "cy": 174.54408999999998,
+   "bw": 590.4919326600001,
+   "bh": 209.08818,
+   "w1": 557.0678610000001,
+   "h1": 197.253,
+   "choice": "top x=951",
+   "fits": true,
+   "shrunk": 0,
+   "busy": 1.0,
+   "tx": -0.00911878507291656,
+   "ty": 0.6767702037037038,
+   "color": [
+    1.0,
+    0.84,
+    0.26
+   ],
+   "sub_color": null,
+   "start": 24.0,
+   "end": 28.0,
+   "img": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_2_atm\\sahne_gorselleri\\07.jpg"
+  },
+  {
+   "text": "SİSTEM AÇIĞI\nBULUNDU!",
+   "style": "stamp",
+   "size_final": 13.0,
+   "sizes": [
+    13.0,
+    13.0
+   ],
+   "lines": [
+    "SİSTEM AÇIĞI",
+    "BULUNDU!"
+   ],
+   "n_main": 2,
+   "rot": -8.0,
+   "cx": 1261.3765280439793,
+   "cy": 293.40780418689445,
+   "bw": 1093.2469439120412,
+   "bh": 446.8156083737889,
+   "w1": 1001.457821,
+   "h1": 284.921,
+   "choice": "top x=1261",
+   "fits": true,
+   "shrunk": 0,
+   "busy": 1.0,
+   "tx": 0.31393388337914513,
+   "ty": 0.45665221446871396,
+   "color": [
+    0.36,
+    0.85,
+    0.42
+   ],
+   "sub_color": null,
+   "start": 42.0,
+   "end": 46.0,
+   "img": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_2_atm\\sahne_gorselleri\\10.jpg"
+  },
+  {
+   "text": "1.6 MİLYON $",
+   "style": "num",
+   "size_final": 12.0,
+   "sizes": [
+    12.0
+   ],
+   "lines": [
+    "1.6 MİLYON $"
+   ],
+   "n_main": 1,
+   "rot": 0.0,
+   "cx": 968.2232393200001,
+   "cy": 139.006,
+   "bw": 944.4464786400001,
+   "bh": 138.012,
+   "w1": 890.987244,
+   "h1": 130.2,
+   "choice": "top x=968",
+   "fits": true,
+   "shrunk": 0,
+   "busy": 1.0,
+   "tx": 0.00856587429166673,
+   "ty": 0.7425814814814815,
+   "color": [
+    1.0,
+    0.84,
+    0.26
+   ],
+   "sub_color": null,
+   "start": 46.0,
+   "end": 54.0,
+   "img": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_2_atm\\sahne_gorselleri\\11.jpg"
+  },
+  {
+   "text": "YIL: 2011",
+   "style": "year",
+   "size_final": 10.75,
+   "sizes": [
+    10.75
+   ],
+   "lines": [
+    "YIL: 2011"
+   ],
+   "n_main": 1,
+   "rot": 0.0,
+   "cx": 379.6655375487501,
+   "cy": 195.0,
+   "bw": 567.3310750975002,
+   "bh": 123.63575000000002,
+   "w1": 535.2179953750001,
+   "h1": 116.6375,
+   "choice": "box",
+   "fits": true,
+   "shrunk": 1,
+   "busy": 1.0,
+   "tx": -0.6045150650533854,
+   "ty": 0.6388888888888888,
+   "color": [
+    1.0,
+    0.84,
+    0.26
+   ],
+   "sub_color": null,
+   "start": 65.0,
+   "end": 70.0,
+   "img": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_2_atm\\sahne_gorselleri\\13.jpg"
+  },
+  {
+   "text": "İŞLEM\nİPTAL EDİLDİ!",
+   "style": "stamp",
+   "size_final": 13.0,
+   "sizes": [
+    13.0,
+    13.0
+   ],
+   "lines": [
+    "İŞLEM",
+    "İPTAL EDİLDİ!"
+   ],
+   "n_main": 2,
+   "rot": -8.0,
+   "cx": 1256.9407118691172,
+   "cy": 294.03121749469597,
+   "bw": 1102.1185762617656,
+   "bh": 448.06243498939193,
+   "w1": 1009.9095369999999,
+   "h1": 284.921,
+   "choice": "top x=1257",
+   "fits": true,
+   "shrunk": 0,
+   "busy": 1.0,
+   "tx": 0.3093132415303304,
+   "ty": 0.45549774538019266,
+   "color": [
+    0.93,
+    0.23,
+    0.2
+   ],
+   "sub_color": null,
+   "start": 75.0,
+   "end": 79.0,
+   "img": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_2_atm\\sahne_gorselleri\\15.jpg"
+  },
+  {
+   "text": "01:00 - 03:00\nSİSTEM BAKIMI",
+   "style": "label",
+   "size_final": 9.0,
+   "sizes": [
+    9.0,
+    9.0
+   ],
+   "lines": [
+    "01:00 - 03:00",
+    "SİSTEM BAKIMI"
+   ],
+   "n_main": 2,
+   "rot": 0.0,
+   "cx": 971.1506866250002,
+   "cy": 174.54408999999998,
+   "bw": 822.3013732500002,
+   "bh": 209.08818,
+   "w1": 775.7560125000001,
+   "h1": 197.253,
+   "choice": "top x=971",
+   "fits": true,
+   "shrunk": 0,
+   "busy": 1.0,
+   "tx": 0.011615298567708503,
+   "ty": 0.6767702037037038,
+   "color": [
+    1.0,
+    0.84,
+    0.26
+   ],
+   "sub_color": null,
+   "start": 88.0,
+   "end": 97.0,
+   "img": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_2_atm\\sahne_gorselleri\\18.jpg"
+  },
+  {
+   "text": "ÇEVRİMDİŞİ MOD",
+   "style": "stamp",
+   "size_final": 7.15,
+   "sizes": [
+    7.15
+   ],
+   "lines": [
+    "ÇEVRİMDİŞİ MOD"
+   ],
+   "n_main": 1,
+   "rot": -8.0,
+   "cx": 1431.8995346097227,
+   "cy": 162.76919949813112,
+   "bw": 752.2009307805545,
+   "bh": 185.53839899626223,
+   "w1": 705.6945896000001,
+   "h1": 77.5775,
+   "choice": "top x=1432",
+   "fits": true,
+   "shrunk": 1,
+   "busy": 0.154,
+   "tx": 0.4915620152184611,
+   "ty": 0.6985755564849424,
+   "color": [
+    0.93,
+    0.23,
+    0.2
+   ],
+   "sub_color": null,
+   "start": 97.0,
+   "end": 103.0,
+   "img": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_2_atm\\sahne_gorselleri\\19.jpg"
+  },
+  {
+   "text": "SINIRSIZ PARA\nHİLESİ!",
+   "style": "stamp",
+   "size_final": 13.0,
+   "sizes": [
+    13.0,
+    13.0
+   ],
+   "lines": [
+    "SINIRSIZ PARA",
+    "HİLESİ!"
+   ],
+   "n_main": 2,
+   "rot": -8.0,
+   "cx": 1212.3449171111265,
+   "cy": 300.2987477142005,
+   "bw": 1191.3101657777468,
+   "bh": 460.597495428401,
+   "w1": 1094.8794675000001,
+   "h1": 284.921,
+   "choice": "top x=1212",
+   "fits": true,
+   "shrunk": 0,
+   "busy": 1.0,
+   "tx": 0.2628592886574234,
+   "ty": 0.44389120793666575,
+   "color": [
+    0.36,
+    0.85,
+    0.42
+   ],
+   "sub_color": null,
+   "start": 113.0,
+   "end": 120.0,
+   "img": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_2_atm\\sahne_gorselleri\\21.jpg"
+  },
+  {
+   "text": "GÜNLÜK\n20.000$!",
+   "style": "num",
+   "size_final": 6.6,
+   "sizes": [
+    6.6000000000000005,
+    6.6000000000000005
+   ],
+   "lines": [
+    "GÜNLÜK",
+    "20.000$!"
+   ],
+   "n_main": 2,
+   "rot": 0.0,
+   "cx": 942.117188492,
+   "cy": 146.665666,
+   "bw": 380.23437698400005,
+   "bh": 153.33133199999997,
+   "w1": 358.7116764,
+   "h1": 144.6522,
+   "choice": "top x=942",
+   "fits": true,
+   "shrunk": 1,
+   "busy": 0.107,
+   "tx": -0.0186279286541667,
+   "ty": 0.7283969148148148,
+   "color": [
+    1.0,
+    0.84,
+    0.26
+   ],
+   "sub_color": null,
+   "start": 126.0,
+   "end": 129.0,
+   "img": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_2_atm\\sahne_gorselleri\\23.jpg"
+  },
+  {
+   "text": "ABONE OL KANKS!",
+   "style": "cta",
+   "size_final": 7.25,
+   "sizes": [
+    7.25
+   ],
+   "lines": [
+    "ABONE OL KANKS!"
+   ],
+   "n_main": 1,
+   "rot": 0.0,
+   "cx": 1362.0,
+   "cy": 813.0,
+   "bw": 844.3269958550001,
+   "bh": 83.38225,
+   "w1": 796.53490175,
+   "h1": 78.6625,
+   "choice": "box",
+   "fits": true,
+   "shrunk": 15,
+   "busy": 1.0,
+   "tx": 0.41875,
+   "ty": -0.5055555555555555,
+   "color": [
+    0.93,
+    0.23,
+    0.2
+   ],
+   "sub_color": null,
+   "start": 129.0,
+   "end": 143.0,
+   "img": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_2_atm\\sahne_gorselleri\\24.jpg"
+  },
+  {
+   "text": "ÖZEL JETLER!",
+   "style": "label",
+   "size_final": 7.65,
+   "sizes": [
+    7.6499999999999995
+   ],
+   "lines": [
+    "ÖZEL JETLER!"
+   ],
+   "n_main": 1,
+   "rot": 0.0,
+   "cx": 1083.826564475,
+   "cy": 113.99132499999999,
+   "bw": 663.65312895,
+   "bh": 87.98264999999999,
+   "w1": 626.0878575,
+   "h1": 83.00249999999998,
+   "choice": "top x=1084",
+   "fits": true,
+   "shrunk": 1,
+   "busy": 0.136,
+   "tx": 0.12898600466145826,
+   "ty": 0.7889049537037037,
+   "color": [
+    1.0,
+    0.84,
+    0.26
+   ],
+   "sub_color": null,
+   "start": 143.0,
+   "end": 147.0,
+   "img": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_2_atm\\sahne_gorselleri\\25.jpg"
+  },
+  {
+   "text": "1.600.000 $",
+   "style": "num",
+   "size_final": 12.0,
+   "sizes": [
+    12.0
+   ],
+   "lines": [
+    "1.600.000 $"
+   ],
+   "n_main": 1,
+   "rot": 0.0,
+   "cx": 975.0450201000001,
+   "cy": 139.006,
+   "bw": 894.0900402000001,
+   "bh": 138.012,
+   "w1": 843.48117,
+   "h1": 130.2,
+   "choice": "top x=975",
+   "fits": true,
+   "shrunk": 0,
+   "busy": 1.0,
+   "tx": 0.015671895937500107,
+   "ty": 0.7425814814814815,
+   "color": [
+    0.36,
+    0.85,
+    0.42
+   ],
+   "sub_color": null,
+   "start": 161.0,
+   "end": 165.0,
+   "img": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_2_atm\\sahne_gorselleri\\29.jpg"
+  },
+  {
+   "text": "AĞIR PARANOYA",
+   "style": "stamp",
+   "size_final": 13.0,
+   "sizes": [
+    13.0
+   ],
+   "lines": [
+    "AĞIR PARANOYA"
+   ],
+   "n_main": 1,
+   "rot": -8.0,
+   "cx": 1125.6067700738836,
+   "cy": 238.47088896584762,
+   "bw": 1364.7864598522326,
+   "bh": 336.94177793169524,
+   "w1": 1280.3644489999997,
+   "h1": 141.04999999999998,
+   "choice": "top x=1126",
+   "fits": true,
+   "shrunk": 0,
+   "busy": 1.0,
+   "tx": 0.1725070521602954,
+   "ty": 0.5583872426558377,
+   "color": [
+    0.93,
+    0.23,
+    0.2
+   ],
+   "sub_color": null,
+   "start": 165.0,
+   "end": 170.0,
+   "img": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_2_atm\\sahne_gorselleri\\30.jpg"
+  },
+  {
+   "text": "İNANMADILAR!",
+   "style": "stamp",
+   "size_final": 13.0,
+   "sizes": [
+    13.0
+   ],
+   "lines": [
+    "İNANMADILAR!"
+   ],
+   "n_main": 1,
+   "rot": -8.0,
+   "cx": 1197.7679939185182,
+   "cy": 228.32929033357658,
+   "bw": 1220.4640121629634,
+   "bh": 316.65858066715316,
+   "w1": 1142.8731404999999,
+   "h1": 141.04999999999998,
+   "choice": "top x=1198",
+   "fits": true,
+   "shrunk": 0,
+   "busy": 1.0,
+   "tx": 0.2476749936651231,
+   "ty": 0.5771679808637471,
+   "color": [
+    1.0,
+    0.84,
+    0.26
+   ],
+   "sub_color": null,
+   "start": 193.0,
+   "end": 196.0,
+   "img": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_2_atm\\sahne_gorselleri\\35.jpg"
+  },
+  {
+   "text": "CANLI YAYIN!",
+   "style": "label",
+   "size_final": 9.0,
+   "sizes": [
+    9.0
+   ],
+   "lines": [
+    "CANLI YAYIN!"
+   ],
+   "n_main": 1,
+   "rot": 0.0,
+   "cx": 966.1032628899992,
+   "cy": 121.75450000000001,
+   "bw": 748.2065257800001,
+   "bh": 103.509,
+   "w1": 705.855213,
+   "h1": 97.64999999999999,
+   "choice": "top x=966",
+   "fits": true,
+   "shrunk": 0,
+   "busy": 1.0,
+   "tx": 0.006357565510415834,
+   "ty": 0.7745287037037036,
+   "color": [
+    0.93,
+    0.23,
+    0.2
+   ],
+   "sub_color": null,
+   "start": 202.0,
+   "end": 208.0,
+   "img": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_2_atm\\sahne_gorselleri\\37.jpg"
+  },
+  {
+   "text": "1 YIL HAPİS",
+   "style": "stamp",
+   "size_final": 13.0,
+   "sizes": [
+    13.0
+   ],
+   "lines": [
+    "1 YIL HAPİS"
+   ],
+   "n_main": 1,
+   "rot": -8.0,
+   "cx": 572.3647881736347,
+   "cy": 207.26682643428256,
+   "bw": 920.7295763472692,
+   "bh": 274.5336528685651,
+   "w1": 857.3258784999998,
+   "h1": 141.04999999999998,
+   "choice": "top x=572",
+   "fits": true,
+   "shrunk": 0,
+   "busy": 0.734,
+   "tx": -0.40378667898579723,
+   "ty": 0.6161725436402175,
+   "color": [
+    1.0,
+    0.84,
+    0.26
+   ],
+   "sub_color": null,
+   "start": 208.0,
+   "end": 212.0,
+   "img": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_2_atm\\sahne_gorselleri\\38.jpg"
+  },
+  {
+   "text": "SİSTEM KUSURSUZ\nDEĞİLDİR!",
+   "style": "quote",
+   "size_final": 8.5,
+   "sizes": [
+    8.5,
+    8.5
+   ],
+   "lines": [
+    "SİSTEM KUSURSUZ",
+    "DEĞİLDİR!"
+   ],
+   "n_main": 2,
+   "rot": 0.0,
+   "cx": 952.36040743,
+   "cy": 168.736085,
+   "bw": 976.72081486,
+   "bh": 197.47217,
+   "w1": 921.4347309999999,
+   "h1": 186.2945,
+   "choice": "top x=952",
+   "fits": true,
+   "shrunk": 0,
+   "busy": 1.0,
+   "tx": -0.007957908927083323,
+   "ty": 0.6875257685185185,
+   "color": [
+    0.36,
+    0.85,
+    0.42
+   ],
+   "sub_color": null,
+   "start": 218.0,
+   "end": 226.0,
+   "img": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_2_atm\\sahne_gorselleri\\40.jpg"
+  },
+  {
+   "text": "GÖRÜŞÜRÜZ BRO!",
+   "style": "cta",
+   "size_final": 7.5,
+   "sizes": [
+    7.5
+   ],
+   "lines": [
+    "GÖRÜŞÜRÜZ BRO!"
+   ],
+   "n_main": 1,
+   "rot": 0.0,
+   "cx": 1362.0,
+   "cy": 813.0,
+   "bw": 839.2923756,
+   "bh": 86.25750000000001,
+   "w1": 791.78526,
+   "h1": 81.375,
+   "choice": "box",
+   "fits": true,
+   "shrunk": 14,
+   "busy": 1.0,
+   "tx": 0.41875,
+   "ty": -0.5055555555555555,
+   "color": [
+    0.36,
+    0.85,
+    0.42
+   ],
+   "sub_color": null,
+   "start": 226.0,
+   "end": 228.62,
+   "img": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_2_atm\\sahne_gorselleri\\41.jpg"
+  }
+ ],
+ "music": [],
+ "vo_median_st": -24.231346592687775,
+ "measure_font": "C:\\Users\\ufuq\\Desktop\\iron vanguard\\capcut-editing-automation\\capcut-editing-automation\\assets\\fonts\\Metropolis-Medium.ttf",
+ "draft_font": "C:/Users/ufuq/AppData/Local/CapCut/Apps/9.6.0.4097/Resources/Font/SystemFont/en.ttf",
+ "md5": "54dd74a7a77e36b5618a0c207089e52d",
+ "warnings": [
+  "the project timeline already had 160 clips; the build replaces the whole timeline"
+ ]
+}

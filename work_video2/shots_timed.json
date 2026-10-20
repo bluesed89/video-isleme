@@ -1,0 +1,293 @@
+{
+  "fps": 30,
+  "end": 228.62,
+  "shots": [
+    {
+      "n": 1,
+      "start": 0.0,
+      "end": 4.0,
+      "dur": 4.0,
+      "text": "diyelim ki gece saat sıfır bir otuz. Arkadaşlarınızla bardan çıktınız,"
+    },
+    {
+      "n": 2,
+      "start": 4.0,
+      "end": 7.0,
+      "dur": 3.0,
+      "text": "cebinizde sadece üç dolar var"
+    },
+    {
+      "n": 3,
+      "start": 7.0,
+      "end": 12.0,
+      "dur": 5.0,
+      "text": "ve en yakın A.T.M.'ye gidip son paranızla bir şeyler almayı planlıyorsunuz."
+    },
+    {
+      "n": 4,
+      "start": 12.0,
+      "end": 16.0,
+      "dur": 4.0,
+      "text": "Kartı taktınız, yanlışlıkla hesabınızda olmayan"
+    },
+    {
+      "n": 5,
+      "start": 16.0,
+      "end": 18.0,
+      "dur": 2.0,
+      "text": "iki yüz doları çekmeyi denediniz."
+    },
+    {
+      "n": 6,
+      "start": 18.0,
+      "end": 24.0,
+      "dur": 6.0,
+      "text": "Ve A.T.M. itiraz etmek yerine o iki yüz doları yüzünüze doğru tükürdü."
+    },
+    {
+      "n": 7,
+      "start": 24.0,
+      "end": 28.0,
+      "dur": 4.0,
+      "text": "Üstelik hesabınızdaki bakiye hala üç dolar,"
+    },
+    {
+      "n": 8,
+      "start": 28.0,
+      "end": 34.0,
+      "dur": 6.0,
+      "text": "ne yapardınız? Bankanın sisteminde bir hata oldu herhalde deyip efendi gibi parayı geri mi yatırırdınız?"
+    },
+    {
+      "n": 9,
+      "start": 34.0,
+      "end": 42.0,
+      "dur": 8.0,
+      "text": "Güzel şakaydı bro, çünkü Avustralya'da yaşayan Dan Saunders adındaki sıradan bir barmen öyle yapmadı."
+    },
+    {
+      "n": 10,
+      "start": 42.0,
+      "end": 46.0,
+      "dur": 4.0,
+      "text": "O bankacılık tarihinin en absürt sistem açığını keşfetti"
+    },
+    {
+      "n": 11,
+      "start": 46.0,
+      "end": 54.0,
+      "dur": 8.0,
+      "text": "ve tek bir satır kod bile bilmeden sadece A.T.M. tuşlarına basarak tam bir nokta altı milyon dolar nakit çekti."
+    },
+    {
+      "n": 12,
+      "start": 54.0,
+      "end": 65.0,
+      "dur": 11.0,
+      "text": "Kemerleri bağlayın Glitches, bugün finansal sistemin nasıl geçici olarak kör olduğunu ve bir adamın bunu nasıl hayatının en çılgın partisine dönüştürdüğünü inceliyoruz."
+    },
+    {
+      "n": 13,
+      "start": 65.0,
+      "end": 70.0,
+      "dur": 5.0,
+      "text": "Yıl 2011. Dan küçük bir kasabada A.T.M.'nin başında dikilirken"
+    },
+    {
+      "n": 14,
+      "start": 70.0,
+      "end": 75.0,
+      "dur": 5.0,
+      "text": "tasarruf hesabından kredi hesabına para aktarmayı denedi."
+    },
+    {
+      "n": 15,
+      "start": 75.0,
+      "end": 79.0,
+      "dur": 4.0,
+      "text": "Ekranda devasa bir uyarı belirdi. İşlem iptal edildi."
+    },
+    {
+      "n": 16,
+      "start": 79.0,
+      "end": 84.0,
+      "dur": 5.0,
+      "text": "Ama hemen ardından alt kısımdaki para yuvası zıngırdayarak açıldı ve para dışarı fırladı."
+    },
+    {
+      "n": 17,
+      "start": 84.0,
+      "end": 88.0,
+      "dur": 4.0,
+      "text": "Peki sistem nasıl çökmüştü? Olay şu:"
+    },
+    {
+      "n": 18,
+      "start": 88.0,
+      "end": 97.0,
+      "dur": 9.0,
+      "text": "bankanın ana sunucuları her gece saat sıfır bir sıfır sıfır ile sıfır üç sıfır sıfır arasında periyodik bakıma giriyordu."
+    },
+    {
+      "n": 19,
+      "start": 97.0,
+      "end": 103.0,
+      "dur": 6.0,
+      "text": "Bu iki saatlik aralıkta A.T.M.'ler internet bağlantısını kesip çevrimdışı moda geçiyordu."
+    },
+    {
+      "n": 20,
+      "start": 103.0,
+      "end": 113.0,
+      "dur": 10.0,
+      "text": "Ağ bağlantısı olmadığı için A.T.M. hesapta gerçekten para olup olmadığını kontrol edemiyor. İşlemi yerel hafızasına yazıp parayı veriyordu."
+    },
+    {
+      "n": 21,
+      "start": 113.0,
+      "end": 120.0,
+      "dur": 7.0,
+      "text": "Yani Dan istemeden de olsa bir video oyunundaki sonsuz para hilesini gerçek hayatta bulmuştu."
+    },
+    {
+      "n": 22,
+      "start": 120.0,
+      "end": 126.0,
+      "dur": 6.0,
+      "text": "Ertesi gece Dan yine geldi. Bu sefer iki bin dolar çekti. Tıkır tıkır çalıştı."
+    },
+    {
+      "n": 23,
+      "start": 126.0,
+      "end": 129.0,
+      "dur": 3.0,
+      "text": "Bir sonraki hafta günde yirmi bin dolar çekmeye başladı."
+    },
+    {
+      "n": 24,
+      "start": 129.0,
+      "end": 143.0,
+      "dur": 14.0,
+      "text": "Eğer bir gün sizin de karşınıza böyle bir sistem açığı çıkarsa ve kendinizi korumak isterseniz kanalımıza abone olmayı unutmayın kanks, çünkü bir sonraki açığı kaçırmak istemezsiniz."
+    },
+    {
+      "n": 25,
+      "start": 143.0,
+      "end": 147.0,
+      "dur": 4.0,
+      "text": "Dan kısa sürede barmenliği bıraktı. Özel jetler kiraladı."
+    },
+    {
+      "n": 26,
+      "start": 147.0,
+      "end": 149.0,
+      "dur": 2.0,
+      "text": "Lüks otellerin kral dairelerini kapattı."
+    },
+    {
+      "n": 27,
+      "start": 149.0,
+      "end": 156.0,
+      "dur": 7.0,
+      "text": "Tanımadığı insanların restoran hesaplarını ödedi ve hatta arkadaşlarının üniversite harçlarını kapattı."
+    },
+    {
+      "n": 28,
+      "start": 156.0,
+      "end": 161.0,
+      "dur": 5.0,
+      "text": "Tam dört buçuk ay boyunca her gece bavullarla nakit para çekti."
+    },
+    {
+      "n": 29,
+      "start": 161.0,
+      "end": 165.0,
+      "dur": 4.0,
+      "text": "Toplam çekilen tutar bir nokta altı milyon Avustralya doları."
+    },
+    {
+      "n": 30,
+      "start": 165.0,
+      "end": 170.0,
+      "dur": 5.0,
+      "text": "Fakat sonsuz paranın çok karanlık bir yan etkisi vardı. Ağır paranoya."
+    },
+    {
+      "n": 31,
+      "start": 170.0,
+      "end": 175.0,
+      "dur": 5.0,
+      "text": "Dan her sabah kapısının polisler tarafından kırılacağı korkusu ile uyanıyordu."
+    },
+    {
+      "n": 32,
+      "start": 175.0,
+      "end": 179.0,
+      "dur": 4.0,
+      "text": "Lüks süitinde otururken her siren sesinde titremeye başlamıştı."
+    },
+    {
+      "n": 33,
+      "start": 179.0,
+      "end": 184.0,
+      "dur": 5.0,
+      "text": "Sonunda vicdan azabına dayanamadı ve bir psikiyatriste gitti."
+    },
+    {
+      "n": 34,
+      "start": 184.0,
+      "end": 193.0,
+      "dur": 9.0,
+      "text": "Doktorunun tavsiyesiyle bankayı arayıp durumu itiraf etti. Hey, sisteminizde bir açık var ve ben sizden bir nokta altı milyon dolar çektim."
+    },
+    {
+      "n": 35,
+      "start": 193.0,
+      "end": 196.0,
+      "dur": 3.0,
+      "text": "Banka ne yaptı dersiniz? İnanmadılar."
+    },
+    {
+      "n": 36,
+      "start": 196.0,
+      "end": 202.0,
+      "dur": 6.0,
+      "text": "Hatta olayı örtbas etmek istedikleri için aylarca Dan'in peşine bile düşmediler."
+    },
+    {
+      "n": 37,
+      "start": 202.0,
+      "end": 208.0,
+      "dur": 6.0,
+      "text": "Dan en sonunda dayanamayıp ulusal televizyona çıktı ve her şeyi canlı yayında anlattı."
+    },
+    {
+      "n": 38,
+      "start": 208.0,
+      "end": 212.0,
+      "dur": 4.0,
+      "text": "Ancak o zaman tutuklandı ve yalnızca bir yıl hapis yattı."
+    },
+    {
+      "n": 39,
+      "start": 212.0,
+      "end": 218.0,
+      "dur": 6.0,
+      "text": "Bugün Dan tekrar barmenlik yapıyor ve beş parası yok ama hayatının en unutulmaz dört ayını yaşadı."
+    },
+    {
+      "n": 40,
+      "start": 218.0,
+      "end": 226.0,
+      "dur": 8.0,
+      "text": "Yani demem o ki kanks... Unutmayın, sistem kusursuz değildir... sadece henüz açığı bulamamışsınızdır."
+    },
+    {
+      "n": 41,
+      "start": 226.0,
+      "end": 228.62,
+      "dur": 2.62,
+      "text": "Bir sonraki glitch'te görüşürüz bro."
+    }
+  ]
+}

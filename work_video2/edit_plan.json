@@ -1,0 +1,593 @@
+{
+  "fps": 30,
+  "end": 228.62,
+  "shots_file": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\work_video2\\shots_timed.json",
+  "path_map": [
+    [
+      "C:/Users/ufuq/Desktop/iron vanguard/video_2_atm/",
+      "C:/Users/ufuq/Desktop/iron vanguard/video_2_atm/"
+    ],
+    [
+      "C:/Users/ufuq/Desktop/iron vanguard/ses efektleri/",
+      "C:/Users/ufuq/Desktop/iron vanguard/ses efektleri/"
+    ]
+  ],
+  "vo": {
+    "file": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_2_atm\\ElevenLabs_2026-10-20T18_07_34_Piko - Playful Turkish Narrator_pvc_sp110_s55_sb80_se0_b_m2.mp3"
+  },
+  "zoom": {
+    "per_sec": 0.012,
+    "min": 0.02,
+    "max": 0.05
+  },
+  "hyper_dynamic": true,
+  "beat_split_sec": 2.0,
+  "punch_scale": 1.3,
+  "shots": [
+    {
+      "n": 1,
+      "file": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_2_atm\\sahne_gorselleri\\01.jpg",
+      "start": 0.0,
+      "zoom": "in"
+    },
+    {
+      "n": 2,
+      "file": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_2_atm\\sahne_gorselleri\\02.jpg",
+      "start": 4.0,
+      "zoom": "out"
+    },
+    {
+      "n": 3,
+      "file": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_2_atm\\sahne_gorselleri\\03.jpg",
+      "start": 7.0,
+      "zoom": "in"
+    },
+    {
+      "n": 4,
+      "file": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_2_atm\\sahne_gorselleri\\04.jpg",
+      "start": 12.0,
+      "zoom": "out"
+    },
+    {
+      "n": 5,
+      "file": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_2_atm\\sahne_gorselleri\\05.jpg",
+      "start": 16.0,
+      "zoom": "in"
+    },
+    {
+      "n": 6,
+      "file": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_2_atm\\sahne_gorselleri\\06.jpg",
+      "start": 18.0,
+      "zoom": "out"
+    },
+    {
+      "n": 7,
+      "file": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_2_atm\\sahne_gorselleri\\07.jpg",
+      "start": 24.0,
+      "zoom": "in"
+    },
+    {
+      "n": 8,
+      "file": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_2_atm\\sahne_gorselleri\\08.jpg",
+      "start": 28.0,
+      "zoom": "out"
+    },
+    {
+      "n": 9,
+      "file": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_2_atm\\sahne_gorselleri\\09.jpg",
+      "start": 34.0,
+      "zoom": "in"
+    },
+    {
+      "n": 10,
+      "file": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_2_atm\\sahne_gorselleri\\10.jpg",
+      "start": 42.0,
+      "zoom": "out"
+    },
+    {
+      "n": 11,
+      "file": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_2_atm\\sahne_gorselleri\\11.jpg",
+      "start": 46.0,
+      "zoom": "in"
+    },
+    {
+      "n": 12,
+      "file": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_2_atm\\sahne_gorselleri\\12.jpg",
+      "start": 54.0,
+      "zoom": "out"
+    },
+    {
+      "n": 13,
+      "file": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_2_atm\\sahne_gorselleri\\13.jpg",
+      "start": 65.0,
+      "zoom": "in"
+    },
+    {
+      "n": 14,
+      "file": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_2_atm\\sahne_gorselleri\\14.jpg",
+      "start": 70.0,
+      "zoom": "out"
+    },
+    {
+      "n": 15,
+      "file": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_2_atm\\sahne_gorselleri\\15.jpg",
+      "start": 75.0,
+      "zoom": "in"
+    },
+    {
+      "n": 16,
+      "file": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_2_atm\\sahne_gorselleri\\16.jpg",
+      "start": 79.0,
+      "zoom": "out"
+    },
+    {
+      "n": 17,
+      "file": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_2_atm\\sahne_gorselleri\\17.jpg",
+      "start": 84.0,
+      "zoom": "in"
+    },
+    {
+      "n": 18,
+      "file": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_2_atm\\sahne_gorselleri\\18.jpg",
+      "start": 88.0,
+      "zoom": "out"
+    },
+    {
+      "n": 19,
+      "file": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_2_atm\\sahne_gorselleri\\19.jpg",
+      "start": 97.0,
+      "zoom": "in"
+    },
+    {
+      "n": 20,
+      "file": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_2_atm\\sahne_gorselleri\\20.jpg",
+      "start": 103.0,
+      "zoom": "out"
+    },
+    {
+      "n": 21,
+      "file": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_2_atm\\sahne_gorselleri\\21.jpg",
+      "start": 113.0,
+      "zoom": "in"
+    },
+    {
+      "n": 22,
+      "file": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_2_atm\\sahne_gorselleri\\22.jpg",
+      "start": 120.0,
+      "zoom": "out"
+    },
+    {
+      "n": 23,
+      "file": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_2_atm\\sahne_gorselleri\\23.jpg",
+      "start": 126.0,
+      "zoom": "in"
+    },
+    {
+      "n": 24,
+      "file": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_2_atm\\sahne_gorselleri\\24.jpg",
+      "start": 129.0,
+      "zoom": "out"
+    },
+    {
+      "n": 25,
+      "file": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_2_atm\\sahne_gorselleri\\25.jpg",
+      "start": 143.0,
+      "zoom": "in"
+    },
+    {
+      "n": 26,
+      "file": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_2_atm\\sahne_gorselleri\\26.jpg",
+      "start": 147.0,
+      "zoom": "out"
+    },
+    {
+      "n": 27,
+      "file": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_2_atm\\sahne_gorselleri\\27.jpg",
+      "start": 149.0,
+      "zoom": "in"
+    },
+    {
+      "n": 28,
+      "file": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_2_atm\\sahne_gorselleri\\28.jpg",
+      "start": 156.0,
+      "zoom": "out"
+    },
+    {
+      "n": 29,
+      "file": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_2_atm\\sahne_gorselleri\\29.jpg",
+      "start": 161.0,
+      "zoom": "in"
+    },
+    {
+      "n": 30,
+      "file": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_2_atm\\sahne_gorselleri\\30.jpg",
+      "start": 165.0,
+      "zoom": "out"
+    },
+    {
+      "n": 31,
+      "file": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_2_atm\\sahne_gorselleri\\31.jpg",
+      "start": 170.0,
+      "zoom": "in"
+    },
+    {
+      "n": 32,
+      "file": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_2_atm\\sahne_gorselleri\\32.jpg",
+      "start": 175.0,
+      "zoom": "out"
+    },
+    {
+      "n": 33,
+      "file": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_2_atm\\sahne_gorselleri\\33.jpg",
+      "start": 179.0,
+      "zoom": "in"
+    },
+    {
+      "n": 34,
+      "file": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_2_atm\\sahne_gorselleri\\34.jpg",
+      "start": 184.0,
+      "zoom": "out"
+    },
+    {
+      "n": 35,
+      "file": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_2_atm\\sahne_gorselleri\\35.jpg",
+      "start": 193.0,
+      "zoom": "in"
+    },
+    {
+      "n": 36,
+      "file": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_2_atm\\sahne_gorselleri\\36.jpg",
+      "start": 196.0,
+      "zoom": "out"
+    },
+    {
+      "n": 37,
+      "file": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_2_atm\\sahne_gorselleri\\37.jpg",
+      "start": 202.0,
+      "zoom": "in"
+    },
+    {
+      "n": 38,
+      "file": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_2_atm\\sahne_gorselleri\\38.jpg",
+      "start": 208.0,
+      "zoom": "out"
+    },
+    {
+      "n": 39,
+      "file": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_2_atm\\sahne_gorselleri\\39.jpg",
+      "start": 212.0,
+      "zoom": "in"
+    },
+    {
+      "n": 40,
+      "file": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_2_atm\\sahne_gorselleri\\40.jpg",
+      "start": 218.0,
+      "zoom": "out"
+    },
+    {
+      "n": 41,
+      "file": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_2_atm\\sahne_gorselleri\\41.jpg",
+      "start": 226.0,
+      "zoom": "in"
+    }
+  ],
+  "music": [],
+  "sfx": [
+    {
+      "t": "c1",
+      "file": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\ses efektleri\\Low Slow Whoosh.wav",
+      "level": "soft",
+      "note": "Night street intro"
+    },
+    {
+      "t": "c4",
+      "file": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\ses efektleri\\Mouse Click 1.wav",
+      "level": "accent",
+      "note": "ATM card insert"
+    },
+    {
+      "t": "c6",
+      "file": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\ses efektleri\\Cash Register.mp3",
+      "level": "hit",
+      "note": "200$ cash explodes!"
+    },
+    {
+      "t": "c7",
+      "file": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\ses efektleri\\Ding Sound Effect.mp3",
+      "level": "accent",
+      "note": "Balance is still 3$"
+    },
+    {
+      "t": "c10",
+      "file": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\ses efektleri\\Glitch.wav",
+      "level": "hit",
+      "note": "Glitch character appears"
+    },
+    {
+      "t": "c11",
+      "file": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\ses efektleri\\Cash Register.mp3",
+      "level": "accent",
+      "note": "1.6M cash piles"
+    },
+    {
+      "t": "c12",
+      "file": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\ses efektleri\\Hard Hit 2.mp3",
+      "level": "accent",
+      "note": "Throne of cash"
+    },
+    {
+      "t": "c14",
+      "file": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\ses efektleri\\Keyboard.mp3",
+      "level": "soft",
+      "note": "ATM transfer keypad"
+    },
+    {
+      "t": "c15",
+      "file": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\ses efektleri\\Glitch.wav",
+      "level": "hit",
+      "note": "Transaction cancelled error"
+    },
+    {
+      "t": "c16",
+      "file": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\ses efektleri\\Cash Register.mp3",
+      "level": "hit",
+      "note": "Cash dispenser opens"
+    },
+    {
+      "t": "c18",
+      "file": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\ses efektleri\\Bass Beats.wav",
+      "level": "soft",
+      "note": "Bank server room"
+    },
+    {
+      "t": "c19",
+      "file": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\ses efektleri\\Glitch.wav",
+      "level": "accent",
+      "note": "Offline mode glitch"
+    },
+    {
+      "t": "c20",
+      "file": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\ses efektleri\\Ding Sound Effect.mp3",
+      "level": "soft",
+      "note": "Approved blindly"
+    },
+    {
+      "t": "c21",
+      "file": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\ses efektleri\\Cash Register.mp3",
+      "level": "hit",
+      "note": "Unlimited cash cheat"
+    },
+    {
+      "t": "c23",
+      "file": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\ses efektleri\\Hard Hit 4.mp3",
+      "level": "hit",
+      "note": "20.000$ daily"
+    },
+    {
+      "t": "c24",
+      "file": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\ses efektleri\\Pop 1.wav",
+      "level": "accent",
+      "note": "Subscribe pop-in"
+    },
+    {
+      "t": "c25",
+      "file": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\ses efektleri\\2. Whoosh Swoosh.wav",
+      "level": "accent",
+      "note": "Private jet swoosh"
+    },
+    {
+      "t": "c28",
+      "file": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\ses efektleri\\Cash Register.mp3",
+      "level": "accent",
+      "note": "Luggage of cash"
+    },
+    {
+      "t": "c29",
+      "file": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\ses efektleri\\Low Boom.mp3",
+      "level": "hit",
+      "note": "1.6 Million total!"
+    },
+    {
+      "t": "c30",
+      "file": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\ses efektleri\\Hard Hit 5.mp3",
+      "level": "hit",
+      "note": "Paranoia hits"
+    },
+    {
+      "t": "c31",
+      "file": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\ses efektleri\\Clock Ticking.mp3",
+      "level": "soft",
+      "note": "Ticking paranoia"
+    },
+    {
+      "t": "c34",
+      "file": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\ses efektleri\\Camera Flash.mp3",
+      "level": "accent",
+      "note": "Confession call"
+    },
+    {
+      "t": "c35",
+      "file": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\ses efektleri\\Ding Sound Effect.mp3",
+      "level": "accent",
+      "note": "Bank disbelief"
+    },
+    {
+      "t": "c37",
+      "file": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\ses efektleri\\Camera Flash.mp3",
+      "level": "accent",
+      "note": "Live TV appearance"
+    },
+    {
+      "t": "c38",
+      "file": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\ses efektleri\\Hard hit 1.mp3",
+      "level": "hit",
+      "note": "Gavel strike - prison"
+    },
+    {
+      "t": "c40",
+      "file": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\ses efektleri\\Glitch.wav",
+      "level": "hit",
+      "note": "System is not perfect"
+    },
+    {
+      "t": "c41",
+      "file": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\ses efektleri\\Low Slow Whoosh.wav",
+      "level": "soft",
+      "note": "Outro salute"
+    }
+  ],
+  "text": [
+    {
+      "text": "JACKPOT!\n200$ NAKİT",
+      "start": "c6",
+      "end": "c7",
+      "style": "stamp",
+      "color": "green",
+      "ok_busy": true
+    },
+    {
+      "text": "BAKİYE:\n3 DOLAR?!",
+      "start": "c7",
+      "end": "c8",
+      "style": "label",
+      "color": "yellow",
+      "ok_busy": true
+    },
+    {
+      "text": "SİSTEM AÇIĞI\nBULUNDU!",
+      "start": "c10",
+      "end": "c11",
+      "style": "stamp",
+      "color": "green",
+      "ok_busy": true
+    },
+    {
+      "text": "1.6 MİLYON $",
+      "start": "c11",
+      "end": "c12",
+      "style": "num",
+      "color": "yellow",
+      "ok_busy": true
+    },
+    {
+      "text": "YIL: 2011",
+      "start": "c13",
+      "end": "c14",
+      "style": "year",
+      "color": "yellow",
+      "ok_busy": true
+    },
+    {
+      "text": "İŞLEM\nİPTAL EDİLDİ!",
+      "start": "c15",
+      "end": "c16",
+      "style": "stamp",
+      "color": "red",
+      "ok_busy": true
+    },
+    {
+      "text": "01:00 - 03:00\nSİSTEM BAKIMI",
+      "start": "c18",
+      "end": "c19",
+      "style": "label",
+      "color": "yellow",
+      "ok_busy": true
+    },
+    {
+      "text": "ÇEVRİMDİŞİ MOD",
+      "start": "c19",
+      "end": "c20",
+      "style": "stamp",
+      "color": "red",
+      "ok_busy": true
+    },
+    {
+      "text": "SINIRSIZ PARA\nHİLESİ!",
+      "start": "c21",
+      "end": "c22",
+      "style": "stamp",
+      "color": "green",
+      "ok_busy": true
+    },
+    {
+      "text": "GÜNLÜK\n20.000$!",
+      "start": "c23",
+      "end": "c24",
+      "style": "num",
+      "color": "yellow",
+      "ok_busy": true
+    },
+    {
+      "text": "ABONE OL KANKS!",
+      "start": "c24",
+      "end": "c25",
+      "style": "cta",
+      "color": "red",
+      "ok_busy": true
+    },
+    {
+      "text": "ÖZEL JETLER!",
+      "start": "c25",
+      "end": "c26",
+      "style": "label",
+      "color": "yellow",
+      "ok_busy": true
+    },
+    {
+      "text": "1.600.000 $",
+      "start": "c29",
+      "end": "c30",
+      "style": "num",
+      "color": "green",
+      "ok_busy": true
+    },
+    {
+      "text": "AĞIR PARANOYA",
+      "start": "c30",
+      "end": "c31",
+      "style": "stamp",
+      "color": "red",
+      "ok_busy": true
+    },
+    {
+      "text": "İNANMADILAR!",
+      "start": "c35",
+      "end": "c36",
+      "style": "stamp",
+      "color": "yellow",
+      "ok_busy": true
+    },
+    {
+      "text": "CANLI YAYIN!",
+      "start": "c37",
+      "end": "c38",
+      "style": "label",
+      "color": "red",
+      "ok_busy": true
+    },
+    {
+      "text": "1 YIL HAPİS",
+      "start": "c38",
+      "end": "c39",
+      "style": "stamp",
+      "color": "yellow",
+      "ok_busy": true
+    },
+    {
+      "text": "SİSTEM KUSURSUZ\nDEĞİLDİR!",
+      "start": "c40",
+      "end": "c41",
+      "style": "quote",
+      "color": "green",
+      "ok_busy": true
+    },
+    {
+      "text": "GÖRÜŞÜRÜZ BRO!",
+      "start": "c41",
+      "end": 228.62,
+      "style": "cta",
+      "color": "green",
+      "ok_busy": true
+    }
+  ]
+}

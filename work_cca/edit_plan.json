@@ -1,0 +1,796 @@
+{
+  "fps": 30,
+  "end": 224.81,
+  "shots_file": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\work_cca\\shots_timed.json",
+  "path_map": [
+    [
+      "C:/Users/ufuq/Desktop/edit fx/",
+      "C:/Users/ufuq/Desktop/edit fx/"
+    ],
+    [
+      "C:/Users/ufuq/Desktop/iron vanguard/video_1_coca_cola/",
+      "C:/Users/ufuq/Desktop/iron vanguard/video_1_coca_cola/"
+    ]
+  ],
+  "vo": {
+    "file": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_1_coca_cola\\ElevenLabs_2026-10-19T14_37_48_Adam - Deep, Professional and Serious_pvc_sp100_s45_sb50_se0_b_m2.mp3"
+  },
+  "zoom": {
+    "per_sec": 0.012,
+    "min": 0.02,
+    "max": 0.05
+  },
+  "shots": [
+    {
+      "n": 1,
+      "file": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_1_coca_cola\\sahne_gorselleri\\01.jpg",
+      "start": 0.0,
+      "zoom": "in"
+    },
+    {
+      "n": 2,
+      "file": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_1_coca_cola\\sahne_gorselleri\\02.jpg",
+      "start": 9.0,
+      "zoom": "out"
+    },
+    {
+      "n": 3,
+      "file": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_1_coca_cola\\sahne_gorselleri\\03.jpg",
+      "start": 14.0,
+      "zoom": "in"
+    },
+    {
+      "n": 4,
+      "file": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_1_coca_cola\\sahne_gorselleri\\04.jpg",
+      "start": 17.0,
+      "zoom": "out"
+    },
+    {
+      "n": 5,
+      "file": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_1_coca_cola\\sahne_gorselleri\\05.jpg",
+      "start": 20.0,
+      "zoom": "in"
+    },
+    {
+      "n": 6,
+      "file": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_1_coca_cola\\sahne_gorselleri\\06.jpg",
+      "start": 24.0,
+      "zoom": "out"
+    },
+    {
+      "n": 7,
+      "file": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_1_coca_cola\\sahne_gorselleri\\07.jpg",
+      "start": 32.0,
+      "zoom": "in"
+    },
+    {
+      "n": 8,
+      "file": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_1_coca_cola\\sahne_gorselleri\\08.jpg",
+      "start": 35.0,
+      "zoom": "out"
+    },
+    {
+      "n": 9,
+      "file": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_1_coca_cola\\sahne_gorselleri\\09.jpg",
+      "start": 39.0,
+      "zoom": "in"
+    },
+    {
+      "n": 10,
+      "file": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_1_coca_cola\\sahne_gorselleri\\10.jpg",
+      "start": 45.0,
+      "zoom": "out"
+    },
+    {
+      "n": 11,
+      "file": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_1_coca_cola\\sahne_gorselleri\\11.jpg",
+      "start": 49.0,
+      "zoom": "in"
+    },
+    {
+      "n": 12,
+      "file": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_1_coca_cola\\sahne_gorselleri\\12.jpg",
+      "start": 53.0,
+      "zoom": "out"
+    },
+    {
+      "n": 13,
+      "file": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_1_coca_cola\\sahne_gorselleri\\13.jpg",
+      "start": 59.0,
+      "zoom": "in"
+    },
+    {
+      "n": 14,
+      "file": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_1_coca_cola\\sahne_gorselleri\\14.jpg",
+      "start": 64.0,
+      "zoom": 0.06
+    },
+    {
+      "n": 15,
+      "file": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_1_coca_cola\\sahne_gorselleri\\15.jpg",
+      "start": 66.0,
+      "zoom": "in"
+    },
+    {
+      "n": 16,
+      "file": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_1_coca_cola\\sahne_gorselleri\\16.jpg",
+      "start": 72.0,
+      "zoom": "out"
+    },
+    {
+      "n": 17,
+      "file": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_1_coca_cola\\sahne_gorselleri\\17.jpg",
+      "start": 79.0,
+      "zoom": "in"
+    },
+    {
+      "n": 18,
+      "file": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_1_coca_cola\\sahne_gorselleri\\18.jpg",
+      "start": 85.0,
+      "zoom": "out"
+    },
+    {
+      "n": 19,
+      "file": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_1_coca_cola\\sahne_gorselleri\\19.jpg",
+      "start": 88.0,
+      "zoom": "in"
+    },
+    {
+      "n": 20,
+      "file": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_1_coca_cola\\sahne_gorselleri\\20.jpg",
+      "start": 94.0,
+      "zoom": "out"
+    },
+    {
+      "n": 21,
+      "file": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_1_coca_cola\\sahne_gorselleri\\21.jpg",
+      "start": 100.0,
+      "zoom": "in"
+    },
+    {
+      "n": 22,
+      "file": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_1_coca_cola\\sahne_gorselleri\\22.jpg",
+      "start": 106.0,
+      "zoom": 0.06
+    },
+    {
+      "n": 23,
+      "file": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_1_coca_cola\\sahne_gorselleri\\23.jpg",
+      "start": 108.0,
+      "zoom": "in"
+    },
+    {
+      "n": 24,
+      "file": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_1_coca_cola\\sahne_gorselleri\\24.jpg",
+      "start": 113.0,
+      "zoom": "out"
+    },
+    {
+      "n": 25,
+      "file": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_1_coca_cola\\sahne_gorselleri\\25.jpg",
+      "start": 119.0,
+      "zoom": "in"
+    },
+    {
+      "n": 26,
+      "file": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_1_coca_cola\\sahne_gorselleri\\26.jpg",
+      "start": 123.0,
+      "zoom": "out"
+    },
+    {
+      "n": 27,
+      "file": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_1_coca_cola\\sahne_gorselleri\\27.jpg",
+      "start": 127.0,
+      "zoom": "in"
+    },
+    {
+      "n": 28,
+      "file": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_1_coca_cola\\sahne_gorselleri\\28.jpg",
+      "start": 129.0,
+      "zoom": "out"
+    },
+    {
+      "n": 29,
+      "file": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_1_coca_cola\\sahne_gorselleri\\29.jpg",
+      "start": 133.0,
+      "zoom": "in"
+    },
+    {
+      "n": 30,
+      "file": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_1_coca_cola\\sahne_gorselleri\\30.jpg",
+      "start": 136.0,
+      "zoom": "out"
+    },
+    {
+      "n": 31,
+      "file": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_1_coca_cola\\sahne_gorselleri\\31.jpg",
+      "start": 139.0,
+      "zoom": "in"
+    },
+    {
+      "n": 32,
+      "file": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_1_coca_cola\\sahne_gorselleri\\32.jpg",
+      "start": 143.0,
+      "zoom": "out"
+    },
+    {
+      "n": 33,
+      "file": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_1_coca_cola\\sahne_gorselleri\\33.jpg",
+      "start": 145.0,
+      "zoom": "in"
+    },
+    {
+      "n": 34,
+      "file": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_1_coca_cola\\sahne_gorselleri\\34.jpg",
+      "start": 146.0,
+      "zoom": "out"
+    },
+    {
+      "n": 35,
+      "file": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_1_coca_cola\\sahne_gorselleri\\35.jpg",
+      "start": 151.0,
+      "zoom": "in"
+    },
+    {
+      "n": 36,
+      "file": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_1_coca_cola\\sahne_gorselleri\\36.jpg",
+      "start": 153.0,
+      "zoom": "out"
+    },
+    {
+      "n": 37,
+      "file": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_1_coca_cola\\sahne_gorselleri\\37.jpg",
+      "start": 155.0,
+      "zoom": "in"
+    },
+    {
+      "n": 38,
+      "file": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_1_coca_cola\\sahne_gorselleri\\38.jpg",
+      "start": 156.0,
+      "zoom": "out"
+    },
+    {
+      "n": 39,
+      "file": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_1_coca_cola\\sahne_gorselleri\\39.jpg",
+      "start": 160.0,
+      "zoom": "in"
+    },
+    {
+      "n": 40,
+      "file": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_1_coca_cola\\sahne_gorselleri\\40.jpg",
+      "start": 164.0,
+      "zoom": "out"
+    },
+    {
+      "n": 41,
+      "file": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_1_coca_cola\\sahne_gorselleri\\41.jpg",
+      "start": 166.0,
+      "zoom": "in"
+    },
+    {
+      "n": 42,
+      "file": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_1_coca_cola\\sahne_gorselleri\\42.jpg",
+      "start": 169.0,
+      "zoom": "out"
+    },
+    {
+      "n": 43,
+      "file": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_1_coca_cola\\sahne_gorselleri\\43.jpg",
+      "start": 171.0,
+      "zoom": "in"
+    },
+    {
+      "n": 44,
+      "file": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_1_coca_cola\\sahne_gorselleri\\44.jpg",
+      "start": 176.0,
+      "zoom": "out"
+    },
+    {
+      "n": 45,
+      "file": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_1_coca_cola\\sahne_gorselleri\\45.jpg",
+      "start": 178.0,
+      "zoom": "in"
+    },
+    {
+      "n": 46,
+      "file": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_1_coca_cola\\sahne_gorselleri\\46.jpg",
+      "start": 182.0,
+      "zoom": "out"
+    },
+    {
+      "n": 47,
+      "file": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_1_coca_cola\\sahne_gorselleri\\47.jpg",
+      "start": 185.0,
+      "zoom": "in"
+    },
+    {
+      "n": 48,
+      "file": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_1_coca_cola\\sahne_gorselleri\\48.jpg",
+      "start": 187.0,
+      "zoom": 0.06
+    },
+    {
+      "n": 49,
+      "file": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_1_coca_cola\\sahne_gorselleri\\49.jpg",
+      "start": 192.0,
+      "zoom": "in"
+    },
+    {
+      "n": 50,
+      "file": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_1_coca_cola\\sahne_gorselleri\\50.jpg",
+      "start": 197.0,
+      "zoom": "out"
+    },
+    {
+      "n": 51,
+      "file": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_1_coca_cola\\sahne_gorselleri\\51.jpg",
+      "start": 200.0,
+      "zoom": "in"
+    },
+    {
+      "n": 52,
+      "file": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_1_coca_cola\\sahne_gorselleri\\52.jpg",
+      "start": 202.0,
+      "zoom": "out"
+    },
+    {
+      "n": 53,
+      "file": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_1_coca_cola\\sahne_gorselleri\\53.jpg",
+      "start": 205.0,
+      "zoom": "in"
+    },
+    {
+      "n": 54,
+      "file": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_1_coca_cola\\sahne_gorselleri\\54.jpg",
+      "start": 208.0,
+      "zoom": "out"
+    },
+    {
+      "n": 55,
+      "file": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_1_coca_cola\\sahne_gorselleri\\55.jpg",
+      "start": 211.0,
+      "zoom": "in"
+    },
+    {
+      "n": 56,
+      "file": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_1_coca_cola\\sahne_gorselleri\\56.jpg",
+      "start": 213.0,
+      "zoom": "out"
+    },
+    {
+      "n": 57,
+      "file": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_1_coca_cola\\sahne_gorselleri\\57.jpg",
+      "start": 216.0,
+      "zoom": "in"
+    },
+    {
+      "n": 58,
+      "file": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_1_coca_cola\\sahne_gorselleri\\58.jpg",
+      "start": 218.0,
+      "zoom": "out"
+    },
+    {
+      "n": 59,
+      "file": "c:\\Users\\ufuq\\Desktop\\iron vanguard\\video_1_coca_cola\\sahne_gorselleri\\59.jpg",
+      "start": 221.0,
+      "zoom": "in"
+    }
+  ],
+  "music": [],
+  "sfx": [
+    {
+      "t": "c1",
+      "file": "C:\\Users\\ufuq\\Desktop\\edit fx\\SFX Pack Mini\\Bass Whoosh Sound Effect By Techno @AliDesign2022.mp3",
+      "level": "accent",
+      "note": "Intro whoosh"
+    },
+    {
+      "t": "c2",
+      "file": "C:\\Users\\ufuq\\Desktop\\edit fx\\SFX Pack Mini\\gaming mouse click @AliDesign2022.mp3",
+      "level": "soft",
+      "note": "Soviet question"
+    },
+    {
+      "t": "c3",
+      "file": "C:\\Users\\ufuq\\Desktop\\edit fx\\Bass Impact - Sound Effect for editing.mp3",
+      "align": "peak",
+      "level": "hit",
+      "note": "Much worse happened"
+    },
+    {
+      "t": "c4",
+      "file": "C:\\Users\\ufuq\\Desktop\\edit fx\\BUBBLE POP SOUND EFFECT - FREE.mp3",
+      "level": "accent",
+      "note": "Coca Cola changed"
+    },
+    {
+      "t": "c6",
+      "file": "C:\\Users\\ufuq\\Desktop\\edit fx\\SFX Pack Mini\\Deep Whoosh Sound Effect @AliDesign2022.mp3",
+      "level": "accent",
+      "note": "1980s transition"
+    },
+    {
+      "t": "c8",
+      "file": "C:\\Users\\ufuq\\Desktop\\edit fx\\SFX Pack Mini\\boom impact @AliDesign2022.mp3",
+      "level": "accent",
+      "note": "Sweating executives"
+    },
+    {
+      "t": "c9",
+      "file": "C:\\Users\\ufuq\\Desktop\\edit fx\\SFX Pack Mini\\Bass Whoosh Sound Effect By Techno @AliDesign2022.mp3",
+      "level": "soft",
+      "note": "Pepsi attacks"
+    },
+    {
+      "t": "c10",
+      "file": "C:\\Users\\ufuq\\Desktop\\edit fx\\SFX Pack Mini\\Boop Sound Effect By Techno @AliDesign2022.mp3",
+      "level": "accent",
+      "note": "Pepsi Challenge"
+    },
+    {
+      "t": "c12",
+      "file": "C:\\Users\\ufuq\\Desktop\\edit fx\\BUBBLE POP SOUND EFFECT - FREE.mp3",
+      "level": "accent",
+      "note": "Pepsi wins"
+    },
+    {
+      "t": "c14",
+      "file": "C:\\Users\\ufuq\\Desktop\\edit fx\\Bass Impact - Sound Effect for editing.mp3",
+      "align": "peak",
+      "level": "hit",
+      "note": "Panic!"
+    },
+    {
+      "t": "c16",
+      "file": "C:\\Users\\ufuq\\Desktop\\edit fx\\SFX Pack Mini\\Paper Flip 1 @AliDesign2022.wav",
+      "level": "accent",
+      "note": "Recipe into trash"
+    },
+    {
+      "t": "c17",
+      "file": "C:\\Users\\ufuq\\Desktop\\edit fx\\SFX Pack Mini\\Boop Sound Effect By Techno @AliDesign2022.mp3",
+      "level": "soft",
+      "note": "200,000 tested"
+    },
+    {
+      "t": "c19",
+      "file": "C:\\Users\\ufuq\\Desktop\\edit fx\\SFX Pack Mini\\Deep Whoosh Sound Effect @AliDesign2022.mp3",
+      "level": "soft",
+      "note": "April 23 date"
+    },
+    {
+      "t": "c20",
+      "file": "C:\\Users\\ufuq\\Desktop\\edit fx\\Camera Flash Sound Effect to Make Your Videos More Engaging \u2013 HM SFX Library.mp3",
+      "align": "peak",
+      "level": "hit",
+      "note": "CEO press flash"
+    },
+    {
+      "t": "c22",
+      "file": "C:\\Users\\ufuq\\Desktop\\edit fx\\Bass Impact - Sound Effect for editing.mp3",
+      "align": "peak",
+      "level": "hit",
+      "note": "Fun fact no"
+    },
+    {
+      "t": "c24",
+      "file": "C:\\Users\\ufuq\\Desktop\\edit fx\\SFX Pack Mini\\boom impact @AliDesign2022.mp3",
+      "level": "accent",
+      "note": "Constitutional outrage"
+    },
+    {
+      "t": "c25",
+      "file": "C:\\Users\\ufuq\\Desktop\\edit fx\\SFX Pack Mini\\Bass Whoosh Sound Effect By Techno @AliDesign2022.mp3",
+      "level": "accent",
+      "note": "Supermarket panic"
+    },
+    {
+      "t": "c26",
+      "file": "C:\\Users\\ufuq\\Desktop\\edit fx\\BUBBLE POP SOUND EFFECT - FREE.mp3",
+      "level": "soft",
+      "note": "Basement hoarding"
+    },
+    {
+      "t": "c28",
+      "file": "C:\\Users\\ufuq\\Desktop\\edit fx\\SFX Pack Mini\\Boop Sound Effect By Techno @AliDesign2022.mp3",
+      "level": "accent",
+      "note": "8000 calls"
+    },
+    {
+      "t": "c31",
+      "file": "C:\\Users\\ufuq\\Desktop\\edit fx\\Bass Impact - Sound Effect for editing.mp3",
+      "align": "peak",
+      "level": "hit",
+      "note": "You monsters crying"
+    },
+    {
+      "t": "c32",
+      "file": "C:\\Users\\ufuq\\Desktop\\edit fx\\SFX Pack Mini\\Deep Whoosh Sound Effect @AliDesign2022.mp3",
+      "level": "soft",
+      "note": "Fidel Castro"
+    },
+    {
+      "t": "c35",
+      "file": "C:\\Users\\ufuq\\Desktop\\edit fx\\SFX Pack Mini\\boom impact @AliDesign2022.mp3",
+      "level": "accent",
+      "note": "Protest march"
+    },
+    {
+      "t": "c37",
+      "file": "C:\\Users\\ufuq\\Desktop\\edit fx\\SFX Pack Mini\\Bass Whoosh Sound Effect By Techno @AliDesign2022.mp3",
+      "level": "accent",
+      "note": "Dumping in sewers"
+    },
+    {
+      "t": "c38",
+      "file": "C:\\Users\\ufuq\\Desktop\\edit fx\\Bass Impact - Sound Effect for editing.mp3",
+      "align": "peak",
+      "level": "hit",
+      "note": "Lawsuit gavel"
+    },
+    {
+      "t": "c39",
+      "file": "C:\\Users\\ufuq\\Desktop\\edit fx\\BUBBLE POP SOUND EFFECT - FREE.mp3",
+      "level": "soft",
+      "note": "79 days"
+    },
+    {
+      "t": "c40",
+      "file": "C:\\Users\\ufuq\\Desktop\\edit fx\\SFX Pack Mini\\boom impact @AliDesign2022.mp3",
+      "level": "accent",
+      "note": "Surrender flag"
+    },
+    {
+      "t": "c42",
+      "file": "C:\\Users\\ufuq\\Desktop\\edit fx\\Camera Flash Sound Effect to Make Your Videos More Engaging \u2013 HM SFX Library.mp3",
+      "align": "peak",
+      "level": "hit",
+      "note": "Press return"
+    },
+    {
+      "t": "c43",
+      "file": "C:\\Users\\ufuq\\Desktop\\edit fx\\BUBBLE POP SOUND EFFECT - FREE.mp3",
+      "level": "accent",
+      "note": "Classic Coke returns"
+    },
+    {
+      "t": "c45",
+      "file": "C:\\Users\\ufuq\\Desktop\\edit fx\\SFX Pack Mini\\Deep Whoosh Sound Effect @AliDesign2022.mp3",
+      "level": "soft",
+      "note": "Senate cheers"
+    },
+    {
+      "t": "c47",
+      "file": "C:\\Users\\ufuq\\Desktop\\edit fx\\SFX Pack Mini\\Boop Sound Effect By Techno @AliDesign2022.mp3",
+      "level": "accent",
+      "note": "Sales boom"
+    },
+    {
+      "t": "c48",
+      "file": "C:\\Users\\ufuq\\Desktop\\edit fx\\Bass Impact - Sound Effect for editing.mp3",
+      "align": "peak",
+      "level": "hit",
+      "note": "Monster truck crush"
+    },
+    {
+      "t": "c51",
+      "file": "C:\\Users\\ufuq\\Desktop\\edit fx\\SFX Pack Mini\\gaming mouse click @AliDesign2022.mp3",
+      "level": "soft",
+      "note": "Not that smart"
+    },
+    {
+      "t": "c52",
+      "file": "C:\\Users\\ufuq\\Desktop\\edit fx\\BUBBLE POP SOUND EFFECT - FREE.mp3",
+      "level": "soft",
+      "note": "Not that stupid"
+    },
+    {
+      "t": "c56",
+      "file": "C:\\Users\\ufuq\\Desktop\\edit fx\\SFX Pack Mini\\Boop Sound Effect By Techno @AliDesign2022.mp3",
+      "level": "accent",
+      "note": "Subscribe CTA"
+    }
+  ],
+  "text": [
+    {
+      "text": "1985\nKR\u0130Z",
+      "start": "c1",
+      "end": "c2",
+      "style": "num",
+      "color": "yellow",
+      "ok_busy": true
+    },
+    {
+      "text": "N\u00dcKLEER M\u0130?",
+      "start": "c2",
+      "end": "c3",
+      "style": "stamp",
+      "color": "red",
+      "ok_busy": true
+    },
+    {
+      "text": "COCA-COLA",
+      "start": "c4",
+      "end": "c5",
+      "style": "big",
+      "color": "white",
+      "ok_busy": true
+    },
+    {
+      "text": "PEPSI CHALLENGE",
+      "start": "c10",
+      "end": "c11",
+      "style": "label",
+      "color": "yellow",
+      "ok_busy": true
+    },
+    {
+      "text": "PAN\u0130K!",
+      "start": "c14",
+      "end": "c15",
+      "style": "stamp",
+      "color": "red",
+      "ok_busy": true
+    },
+    {
+      "text": "99 YILLIK TAR\u0130F\n\u00c7\u00d6PE!",
+      "start": "c16",
+      "end": "c17",
+      "style": "stamp",
+      "color": "red",
+      "ok_busy": true
+    },
+    {
+      "text": "200.000 K\u0130\u015e\u0130",
+      "start": "c17",
+      "end": "c18",
+      "style": "num",
+      "color": "yellow",
+      "ok_busy": true
+    },
+    {
+      "text": "23 N\u0130SAN 1985",
+      "start": "c19",
+      "end": "c20",
+      "style": "year",
+      "color": "yellow",
+      "ok_busy": true
+    },
+    {
+      "text": "NEW COKE",
+      "start": "c20",
+      "end": "c21",
+      "style": "label",
+      "color": "yellow",
+      "ok_busy": true
+    },
+    {
+      "text": "FUN FACT: NO.",
+      "start": "c22",
+      "end": "c23",
+      "style": "stamp",
+      "color": "red",
+      "ok_busy": true
+    },
+    {
+      "text": "S\u00dcPERMARKET\nYA\u011eMASI",
+      "start": "c25",
+      "end": "c26",
+      "style": "stamp",
+      "color": "red",
+      "ok_busy": true
+    },
+    {
+      "text": "G\u00dcNDE 8.000 \u00c7A\u011eRI",
+      "start": "c28",
+      "end": "c29",
+      "style": "num",
+      "color": "yellow",
+      "ok_busy": true
+    },
+    {
+      "text": "CANAVARLAR!",
+      "start": "c31",
+      "end": "c32",
+      "style": "stamp",
+      "color": "red",
+      "ok_busy": true
+    },
+    {
+      "text": "FIDEL CASTRO",
+      "start": "c32",
+      "end": "c33",
+      "style": "label",
+      "color": "green",
+      "ok_busy": true
+    },
+    {
+      "text": "SOKAK PROTESTOSU",
+      "start": "c35",
+      "end": "c36",
+      "style": "stamp",
+      "color": "red",
+      "ok_busy": true
+    },
+    {
+      "text": "79 G\u00dcN S\u00dcRD\u00dc",
+      "start": "c39",
+      "end": "c40",
+      "style": "num",
+      "color": "yellow",
+      "ok_busy": true
+    },
+    {
+      "text": "COCA-COLA\nPES ETT\u0130",
+      "start": "c40",
+      "end": "c41",
+      "style": "stamp",
+      "color": "white",
+      "ok_busy": true
+    },
+    {
+      "text": "11 TEMMUZ 1985",
+      "start": "c41",
+      "end": "c42",
+      "style": "year",
+      "color": "yellow",
+      "ok_busy": true
+    },
+    {
+      "text": "COCA-COLA CLASSIC\nGER\u0130 D\u00d6ND\u00dc",
+      "start": "c43",
+      "end": "c44",
+      "style": "label",
+      "color": "green",
+      "ok_busy": true
+    },
+    {
+      "text": "SENATO ALKI\u015eI!",
+      "start": "c45",
+      "end": "c46",
+      "style": "label",
+      "color": "green",
+      "ok_busy": true
+    },
+    {
+      "text": "SATI\u015e PATLAMASI!",
+      "start": "c47",
+      "end": "c48",
+      "style": "stamp",
+      "color": "green",
+      "ok_busy": true
+    },
+    {
+      "text": "PEPSI EZ\u0130LD\u0130!",
+      "start": "c48",
+      "end": "c49",
+      "style": "stamp",
+      "color": "red",
+      "ok_busy": true
+    },
+    {
+      "text": "O KADAR\nZEK\u0130 DE\u011e\u0130L\u0130Z",
+      "start": "c51",
+      "end": "c52",
+      "style": "quote",
+      "color": "yellow",
+      "ok_busy": true
+    },
+    {
+      "text": "O KADAR\nAPTAL DA DE\u011e\u0130L\u0130Z",
+      "start": "c52",
+      "end": "c53",
+      "style": "quote",
+      "color": "yellow",
+      "ok_busy": true
+    },
+    {
+      "text": "BE\u011eEN & ABONE OL",
+      "start": "c56",
+      "end": "c57",
+      "style": "cta",
+      "color": "red",
+      "ok_busy": true
+    }
+  ]
+}
